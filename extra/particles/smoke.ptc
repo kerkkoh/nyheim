@@ -1,0 +1,230 @@
+EffectDef {
+ MinFPS 30
+ Emitors {
+  EmitorDef explo_fire_right_01 {
+   ShapeType Cone
+   ShapeSize 0 0 0
+   MaxNum 10
+   BirthRate 500
+   Offset 0 0 0
+   Angles 0 180 0
+   Material "{D17539339C9F6B0B}Graphics/Particles/materials/weapons/weapon_shot_fnx_02.emat"
+   SizeMultiplier 2
+   SizeRND 0.2
+   RandomRotDir 0
+   RandomAngle 1
+   Velocity 1
+   Wind 0
+   LifeTime 0.05
+   LifeTimeRND 0.05
+   Color {
+    0 1 1 1 1 1 1 1
+   }
+   Alpha {
+    0 0.25 1 0.25949
+   }
+   Size {
+    0 0.59494 1 1
+   }
+   EffectTime 10
+   Repeat 0
+   SizeMast {
+    0 1 0.14869 0.99367 0.24841 1 0.2956 0.8481 0.35 1 0.3956 0.86076 0.46044 0.87975 0.5 1 0.56154 0.76582 0.68791 0.77848 0.78681 0.76582 0.85 1 0.94945 0.73418 1 0.55063
+   }
+   BRateMast {
+    0 1 0.14615 0.86076 0.25 1 0.3 0.94937 0.34905 0.98734 0.49955 0.98734 0.65934 0.89241 0.78352 0.90506 0.85 1 0.92637 0.72152 1 0.27848
+   }
+  }
+  EmitorDef explo_fire_right_02 {
+   ShapeType Cone
+   ShapeSize 0 0 0
+   ConeAngle 360 0 30
+   MaxNum 10
+   BirthRate 500
+   Offset 0 0 0
+   Angles 0 180 0
+   Material "{257D7EAB9142037F}Graphics/Particles/materials/weapons/weapon_shot_fnx_03.emat"
+   SizeMultiplier 3.5
+   SizeRND 0.2
+   RandomRotDir 0
+   RandomAngle 1
+   Velocity 5
+   LifeTime 0.05
+   LifeTimeRND 0.05
+   Color {
+    0 1 1 1 1 1 1 1
+   }
+   Alpha {
+    0 0.25 1 0
+   }
+   Size {
+    0 0.24051 1 1
+   }
+   EffectTime 10
+   Repeat 0
+   SizeMast {
+    0 1 0.15 0.55 0.25 0.5 0.3 0 0.35 1 0.5 1 0.55 0 0.8 0 0.85131 0.99367 0.9 0 1 0
+   }
+   BRateMast {
+    0 1 0.15 0 0.25 1 0.3 0 0.35 1 0.50227 0.99367 0.8 0 0.8495 0.99367 0.9 0 1 0
+   }
+  }
+  EmitorDef explo_sparks_right {
+   ShapeType Cone
+   ShapeSize 0 0 0
+   ConeAngle 360 0 50
+   MaxNum 60
+   BirthRate 30
+   Angles 0 180 0
+   LocalTransform 0
+   Material "{0B22CDEBF6A47216}Graphics/Particles/materials/fire/sparks_04.emat"
+   ScaleX 0.376
+   SizeMultiplier 1
+   SizeRND 0.1
+   RandomRotDir 0
+   RotMultiplier 0
+   StreakFullUV 0
+   VelAngle 1
+   RandomAngle 0
+   Sort 0
+   Velocity 10
+   VelocityRND 7
+   AirResistance 0
+   AirResistanceRND 0
+   GravityMultiply 3
+   GravityMultiplyRND 1
+   Wind 1
+   RandomFrame 1
+   LifeTime 0.1
+   LifeTimeRND 0.1
+   Color {
+    0 1 1 1 0.55 1 0.4902 0 1 0.7961 0.1587 0
+   }
+   Alpha {
+    0 1 1 1
+   }
+   RotationSpeed {
+    0 1 1 1
+   }
+   Size {
+    0 1 0.5 1 1 0
+   }
+   EffectTime 15
+   Repeat 0
+   BRateMast {
+    0 1 0.05 0 1 0
+   }
+   VelocityMast {
+    0 1 1 1
+   }
+  }
+  EmitorDef smoke_fast_right {
+   ShapeType Cone
+   ConeAngle 360 0 30
+   MaxNum 300
+   BirthRate 80
+   Offset 0 0 0
+   Angles 0 180 0
+   LocalTransform 0
+   Material "{A6CF8823848E26EA}Graphics/Particles/materials/smoke/smoke_cloud_01_b_trans_RGD2_02.emat"
+   SizeMultiplier 2
+   SizeRND 2
+   RandomRotDir 1
+   RotMultiplier 70
+   StretchMultiplier 1
+   StreakFullUV 0
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 10
+   VelocityRND 10
+   VelAffect 0
+   AirResistance 10
+   AirResistanceRND 10
+   GravityMultiply 0
+   GravityMultiplyRND -1
+   Wind 1
+   RandomFrame 1
+   LifeTime 3
+   LifeTimeRND 2
+   Color {
+    0 0.7288 0.7342 0.7278 1 1 1 1
+   }
+   Alpha {
+    0 1 0.05 0.5 1 0
+   }
+   RotationSpeed {
+    0 1 1 0.1962
+   }
+   Size {
+    0 0 0.025 0.75 1 1
+   }
+   EffectTime 15
+   Repeat 0
+   ColorMast {
+    0 1 1 1 1 1 1 1
+   }
+   SizeMast {
+    0 0.15 0.2 0.5 1 1
+   }
+   AirResistanceMast {
+    0 1 1 1
+   }
+   VelocityMast {
+    0 0 0.2 0.25 1 0.5
+   }
+  }
+  EmitorDef explo_dust_01_up_slow {
+   ShapeType Cone
+   ConeAngle 360 0 30
+   MaxNum 350
+   BirthRate 70
+   BirthRateVel 1
+   Offset 0 0 0
+   Angles 0 180 0
+   LocalTransform 0
+   Material "{A6CF8823848E26EA}Graphics/Particles/materials/smoke/smoke_cloud_01_b_trans_RGD2_02.emat"
+   SizeMultiplier 10
+   SizeRND 6
+   RandomRotDir 1
+   RotMultiplier 20
+   StreakFullUV 0
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 5
+   VelocityRND 10
+   AirResistance 10
+   AirResistanceRND 0
+   GravityMultiply 0
+   GravityMultiplyRND 0.1
+   Wind 1
+   RandomFrame 1
+   LifeTime 3
+   LifeTimeRND 2
+   Color {
+    0 0.6835 0.6893 0.6835 1 1 1 1
+   }
+   Alpha {
+    0 0.57595 0.05 0.75 0.625 0.75 1 0.51266
+   }
+   RotationSpeed {
+    0 1 1 0.70886
+   }
+   Size {
+    0 0.42405 0.3989 0.26582 1 0.12025
+   }
+   EffectTime 15
+   Repeat 0
+   SizeMast {
+    0 0.8481 1 0.25316
+   }
+   BRateMast {
+    0 0.92405 0.2978 0.8481 1 1
+   }
+   VelocityMast {
+    0 0.63291 0.2 0.75 1 1
+   }
+  }
+ }
+}

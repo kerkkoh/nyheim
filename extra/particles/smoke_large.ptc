@@ -1,0 +1,39 @@
+EffectDef {
+ Emitors {
+  EmitorDef smoke_middle {
+   ShapeType Box
+   ShapeSize 0.2 0 0.2
+   ConeAngle 360 0 15
+   MaxNum 150
+   BirthRate 8
+   Material "{00BEA27443975BEB}Graphics/Particles/materials/smoke/smoke_anim_02.emat"
+   SizeMultiplier 6
+   SizeRND 2
+   RandomRotDir 1
+   RotMultiplier 50
+   VelAngle 0
+   RandomAngle 0
+   Velocity 1.5
+   VelocityRND 0.5
+   AirResistance 0
+   AirResistanceRND 0.2
+   Wind 1
+   AnimOnce 0
+   AnimFPS 30
+   LifeTime 15
+   LifeTimeRND 2
+   Color {
+    0 0.4415 0.4521 0.4309 0.1763 0.4787 0.484 0.4734 0.561 0.6111 0.6117 0.6296 1 0.6759 0.6667 0.6759
+   }
+   Alpha {
+    0 0 0.125 0.1 1 0
+   }
+   RotationSpeed {
+    0 0 1 0.30189
+   }
+   Size {
+    0 0.20755 1 1
+   }
+  }
+ }
+}

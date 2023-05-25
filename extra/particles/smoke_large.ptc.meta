@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0DF8F21069227F6F}trerik4/extra/particles/smoke_large.ptc"
+ Author "desktop-hr5reke"
+ ChangeDate 1270000006
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

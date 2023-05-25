@@ -1,0 +1,13 @@
+MetaFileClass  {
+ Name "{E495C1FCCD5EDC27}trerik4/extra/particles/default_01.ptc"
+ Author "kerkkoh"
+ ChangeDate 1022124744
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+ }
+}

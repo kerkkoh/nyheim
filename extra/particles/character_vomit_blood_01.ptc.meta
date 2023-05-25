@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3D2AB5208A1EEABC}trerik4/extra/particles/character_vomit_blood_01.ptc"
+ Author "desktop-hr5reke"
+ ChangeDate 1169336710
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}
