@@ -1,0 +1,94 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: structures_roads\Tunnels\data\Tunnel_grass.rvmat
+//Produced from mikero's Dos Tools Dll version 7.95
+//https://mikero.bytex.digital/Downloads
+//'now' is Wed Jan 06 15:33:01 2021 : 'file' last modified on Thu Apr 30 12:09:37 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {0.0,0.0,0.0,1};
+specularPower = 100;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+class Stage1
+{
+	texture = "#(argb,8,8,3)color(0.5,0.5,1,1.0,nohq)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {0,-1,0};
+		up[] = {-1,0,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage2
+{
+	texture = "dz\rocks\data\maintextures\terrain\bunker_grass_co.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {0,-1,0};
+		up[] = {-1,0,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage3
+{
+	texture = "#(argb,8,8,3)color(0.755,0.765,0.665,1.0,MC)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {0,-1,0};
+		up[] = {-1,0,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage4
+{
+	texture = "#(argb,8,8,3)color(1,1,1,1,AS)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {0,-1,0};
+		up[] = {-1,0,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage5
+{
+	texture = "#(argb,8,8,3)color(1,1,1,1,SMDI)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {0,-1,0};
+		up[] = {-1,0,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};
+class Stage6
+{
+	texture = "#(ai,32,128,1)fresnel(1.11,0.1)";
+	uvSource = "none";
+};
+class Stage7
+{
+	texture = "#(argb,8,8,3)color(1,1,1,1,CO)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};

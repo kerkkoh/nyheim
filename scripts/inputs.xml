@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAToggleMapSounds" loc="Toggle Map Sounds" />
+        </actions>
+    </inputs>
+
+    <preset>
+		<input name="UAToggleMapSounds">
+            <btn name="kNumpad1"> </btn>
+        </input>
+    </preset>
+</modded_inputs>
