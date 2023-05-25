@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="trerik_train" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>trerik_tog_static</Name>
+        <File>trerik4\train\trerik_tog_static.p3d</File>
+        <Date>09/23/22 11:18:20</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-697082861</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.474507</BBRadius>
+        <BBHScale>0.254717</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.011919</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.909141</Height>
+        <BoundingMin X="-1.394449" Y="0.002276" Z="-5.546936" />
+        <BoundingMax X="1.394447" Y="3.820559" Z="5.523097" />
+        <BoundingCenter X="-0.000001" Y="1.911418" Z="-0.011919" />
+        <Placement></Placement>
+    </Template>
+</Library>

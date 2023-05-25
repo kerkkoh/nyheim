@@ -1,0 +1,993 @@
+<?xml version="1.0" ?>
+<Library name="ruins" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Rubble_Bricks1</Name>
+        <File>dz\structures\ruins\rubble_bricks1.p3d</File>
+        <Date>06/21/22 18:53:25</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>900617980</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.078125</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.116211</TexURU>
+        <TexURV>0.047852</TexURV>
+        <BBRadius>3.039990</BBRadius>
+        <BBHScale>0.794608</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.597305</Height>
+        <BoundingMin X="-2.310890" Y="-0.233483" Z="-2.952157" />
+        <BoundingMax X="2.520314" Y="0.961127" Z="3.127823" />
+        <BoundingCenter X="0.104712" Y="0.363822" Z="0.087833" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Bricks2</Name>
+        <File>dz\structures\ruins\rubble_bricks2.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>900617981</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.140625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.242188</TexURU>
+        <TexURV>0.065430</TexURV>
+        <BBRadius>4.049312</BBRadius>
+        <BBHScale>1.559785</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.740285</Height>
+        <BoundingMin X="-6.232024" Y="-0.855748" Z="-4.600130" />
+        <BoundingMax X="6.400090" Y="2.624822" Z="3.498493" />
+        <BoundingCenter X="0.084033" Y="0.884537" Z="-0.550819" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Bricks3</Name>
+        <File>dz\structures\ruins\rubble_bricks3.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>900617982</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.265625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.351563</TexURU>
+        <TexURV>0.078125</TexURV>
+        <BBRadius>6.145465</BBRadius>
+        <BBHScale>1.100556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.559756</Height>
+        <BoundingMin X="-7.004691" Y="-4.055832" Z="-6.612141" />
+        <BoundingMax X="6.522170" Y="3.063680" Z="5.678790" />
+        <BoundingCenter X="-0.241261" Y="-0.496076" Z="-0.466675" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Concrete1</Name>
+        <File>dz\structures\ruins\rubble_concrete1.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1641004887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.390625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.484375</TexURU>
+        <TexURV>0.074219</TexURV>
+        <BBRadius>4.702731</BBRadius>
+        <BBHScale>1.266322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.103093</Height>
+        <BoundingMin X="-4.851978" Y="-1.525079" Z="-4.516891" />
+        <BoundingMax X="7.058371" Y="2.681108" Z="4.888572" />
+        <BoundingCenter X="1.103196" Y="0.578014" Z="0.185841" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Concrete2</Name>
+        <File>dz\structures\ruins\rubble_concrete2.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1641004886</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.515625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.558594</TexURU>
+        <TexURV>0.042969</TexURV>
+        <BBRadius>3.931595</BBRadius>
+        <BBHScale>1.002116</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.690089</Height>
+        <BoundingMin X="-3.657119" Y="-0.288898" Z="-4.526163" />
+        <BoundingMax X="4.222706" Y="1.091280" Z="3.337027" />
+        <BoundingCenter X="0.282794" Y="0.401191" Z="-0.594568" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Concrete3</Name>
+        <File>dz\structures\ruins\rubble_concrete3.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1641004885</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.578125</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.637695</TexURU>
+        <TexURV>0.017578</TexURV>
+        <BBRadius>0.996877</BBRadius>
+        <BBHScale>3.259055</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.235299</Height>
+        <BoundingMin X="-3.068865" Y="-0.156398" Z="-1.124951" />
+        <BoundingMax X="3.428888" Y="0.314201" Z="0.868803" />
+        <BoundingCenter X="0.180011" Y="0.078901" Z="-0.128074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_DirtPile_Large</Name>
+        <File>dz\structures\ruins\rubble_dirtpile_large.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>728218936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.640625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.730469</TexURU>
+        <TexURV>0.083984</TexURV>
+        <BBRadius>4.107205</BBRadius>
+        <BBHScale>1.075287</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.839468</Height>
+        <BoundingMin X="-3.863080" Y="-0.143977" Z="-4.939430" />
+        <BoundingMax X="4.969770" Y="1.534960" Z="3.274980" />
+        <BoundingCenter X="0.553345" Y="0.695492" Z="-0.832225" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_DirtPile_Medium1</Name>
+        <File>dz\structures\ruins\rubble_dirtpile_medium1.p3d</File>
+        <Date>06/21/22 18:53:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-231237831</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.765625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.815430</TexURU>
+        <TexURV>0.035156</TexURV>
+        <BBRadius>1.448500</BBRadius>
+        <BBHScale>1.414436</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.314532</Height>
+        <BoundingMin X="-1.993730" Y="-0.085124" Z="-1.395090" />
+        <BoundingMax X="2.103890" Y="0.543940" Z="1.501910" />
+        <BoundingCenter X="0.055080" Y="0.229408" Z="0.053410" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_DirtPile_Medium2</Name>
+        <File>dz\structures\ruins\rubble_dirtpile_medium2.p3d</File>
+        <Date>06/21/22 18:53:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-231237830</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.828125</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.851563</TexURU>
+        <TexURV>0.018555</TexURV>
+        <BBRadius>1.475165</BBRadius>
+        <BBHScale>1.226826</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.403321</Height>
+        <BoundingMin X="-1.744820" Y="-0.152417" Z="-1.491050" />
+        <BoundingMax X="1.874723" Y="0.654225" Z="1.459280" />
+        <BoundingCenter X="0.064951" Y="0.250904" Z="-0.015885" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_DirtPile_Small</Name>
+        <File>dz\structures\ruins\rubble_dirtpile_small.p3d</File>
+        <Date>06/21/22 18:53:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>752228580</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.859375</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.885742</TexURU>
+        <TexURV>0.015625</TexURV>
+        <BBRadius>1.071173</BBRadius>
+        <BBHScale>1.669626</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.132221</Height>
+        <BoundingMin X="-1.702193" Y="-0.061990" Z="-1.082164" />
+        <BoundingMax X="1.874723" Y="0.202451" Z="1.060181" />
+        <BoundingCenter X="0.086265" Y="0.070230" Z="-0.010991" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Glass</Name>
+        <File>dz\structures\ruins\rubble_glass.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-163538951</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.890625</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.935547</TexURU>
+        <TexURV>0.041992</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Metal1</Name>
+        <File>dz\structures\ruins\rubble_metal1.p3d</File>
+        <Date>06/21/22 18:53:28</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1183808077</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.828125</TexLLU>
+        <TexLLV>0.031250</TexLLV>
+        <TexURU>0.868164</TexURU>
+        <TexURV>0.077148</TexURV>
+        <BBRadius>2.982290</BBRadius>
+        <BBHScale>0.861569</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.660797</Height>
+        <BoundingMin X="-2.572869" Y="-0.431583" Z="-2.792049" />
+        <BoundingMax X="2.566031" Y="0.890012" Z="3.172532" />
+        <BoundingCenter X="-0.003419" Y="0.229215" Z="0.190241" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Metal2</Name>
+        <File>dz\structures\ruins\rubble_metal2.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1183808078</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.062500</TexLLV>
+        <TexURU>0.093750</TexURU>
+        <TexURV>0.135742</TexURV>
+        <BBRadius>5.979457</BBRadius>
+        <BBHScale>1.273042</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.801071</Height>
+        <BoundingMin X="-7.567210" Y="-2.983223" Z="-6.263180" />
+        <BoundingMax X="7.656991" Y="2.618920" Z="5.695734" />
+        <BoundingCenter X="0.044890" Y="-0.182151" Z="-0.283723" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Metal3</Name>
+        <File>dz\structures\ruins\rubble_metal3.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1183808079</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.515625</TexLLU>
+        <TexLLV>0.062500</TexLLV>
+        <TexURU>0.554688</TexURU>
+        <TexURV>0.108398</TexURV>
+        <BBRadius>3.713260</BBRadius>
+        <BBHScale>0.845295</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.081948</Height>
+        <BoundingMin X="-3.508940" Y="-1.133386" Z="-3.202680" />
+        <BoundingMax X="2.768660" Y="1.030510" Z="4.223840" />
+        <BoundingCenter X="-0.370140" Y="-0.051438" Z="0.510580" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Rocks1</Name>
+        <File>dz\structures\ruins\rubble_rocks1.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1252578982</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.765625</TexLLU>
+        <TexLLV>0.093750</TexLLV>
+        <TexURU>0.844727</TexURU>
+        <TexURV>0.174805</TexURV>
+        <BBRadius>10.166547</BBRadius>
+        <BBHScale>0.978744</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>6.402184</Height>
+        <BoundingMin X="-9.911821" Y="-5.733716" Z="-6.799793" />
+        <BoundingMax X="9.989069" Y="7.070652" Z="13.533300" />
+        <BoundingCenter X="0.038624" Y="0.668468" Z="3.366754" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Rocks2</Name>
+        <File>dz\structures\ruins\rubble_rocks2.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1252578983</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.953125</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>0.960938</TexURU>
+        <TexURV>0.008789</TexURV>
+        <BBRadius>0.864550</BBRadius>
+        <BBHScale>0.873674</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.891500</Height>
+        <BoundingMin X="-0.745335" Y="-0.886500" Z="-0.854550" />
+        <BoundingMax X="0.765335" Y="0.896500" Z="0.874550" />
+        <BoundingCenter X="0.010000" Y="0.005000" Z="0.010000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Wood1</Name>
+        <File>dz\structures\ruins\rubble_wood1.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-948908191</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.578125</TexLLU>
+        <TexLLV>0.062500</TexLLV>
+        <TexURU>0.617188</TexURU>
+        <TexURV>0.109375</TexURV>
+        <BBRadius>2.991560</BBRadius>
+        <BBHScale>0.821896</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.691609</Height>
+        <BoundingMin X="-2.385824" Y="-0.351561" Z="-2.841880" />
+        <BoundingMax X="2.531680" Y="1.031656" Z="3.141240" />
+        <BoundingCenter X="0.072928" Y="0.340048" Z="0.149680" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Wood2</Name>
+        <File>dz\structures\ruins\rubble_wood2.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-948908190</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.890625</TexLLU>
+        <TexLLV>0.062500</TexLLV>
+        <TexURU>0.934570</TexURU>
+        <TexURV>0.104492</TexURV>
+        <BBRadius>3.593703</BBRadius>
+        <BBHScale>1.056793</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.957657</Height>
+        <BoundingMin X="-4.219747" Y="-1.315537" Z="-3.110660" />
+        <BoundingMax X="3.375855" Y="0.599777" Z="4.076745" />
+        <BoundingCenter X="-0.421946" Y="-0.357880" Z="0.483042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rubble_Wood3</Name>
+        <File>dz\structures\ruins\rubble_wood3.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-948908189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.125000</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.225586</TexURU>
+        <TexURV>0.191406</TexURV>
+        <BBRadius>5.979001</BBRadius>
+        <BBHScale>1.502623</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.629881</Height>
+        <BoundingMin X="-10.380795" Y="-2.245061" Z="-6.535300" />
+        <BoundingMax X="7.587571" Y="3.014700" Z="5.422702" />
+        <BoundingCenter X="-1.396612" Y="0.384820" Z="-0.556299" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Chimney</Name>
+        <File>dz\structures\ruins\ruin_chimney.p3d</File>
+        <Date>06/21/22 18:53:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-49365982</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.250000</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.261719</TexURU>
+        <TexURV>0.155273</TexURV>
+        <BBRadius>2.303590</BBRadius>
+        <BBHScale>0.377375</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.896578</Height>
+        <BoundingMin X="-0.872205" Y="-0.842195" Z="-2.468120" />
+        <BoundingMax X="0.866430" Y="6.950960" Z="2.139060" />
+        <BoundingCenter X="-0.002887" Y="3.054383" Z="-0.164530" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Church</Name>
+        <File>dz\structures\ruins\ruin_church.p3d</File>
+        <Date>06/21/22 18:53:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-327688738</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.312500</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.405273</TexURU>
+        <TexURV>0.182617</TexURV>
+        <BBRadius>12.272693</BBRadius>
+        <BBHScale>1.624892</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>12.633835</Height>
+        <BoundingMin X="-25.757301" Y="-4.640170" Z="-12.997300" />
+        <BoundingMax X="14.126301" Y="20.627501" Z="11.548085" />
+        <BoundingCenter X="-5.815500" Y="7.993666" Z="-0.724607" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Corner1</Name>
+        <File>dz\structures\ruins\ruin_corner1.p3d</File>
+        <Date>06/21/22 18:53:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>632947717</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.437500</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.483398</TexURU>
+        <TexURV>0.160156</TexURV>
+        <BBRadius>3.043575</BBRadius>
+        <BBHScale>1.286389</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.876923</Height>
+        <BoundingMin X="-4.262320" Y="-0.803185" Z="-2.719560" />
+        <BoundingMax X="3.568120" Y="2.950660" Z="3.367590" />
+        <BoundingCenter X="-0.347100" Y="1.073737" Z="0.324015" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Corner2</Name>
+        <File>dz\structures\ruins\ruin_corner2.p3d</File>
+        <Date>06/21/22 18:53:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>632947718</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.500000</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.545898</TexURU>
+        <TexURV>0.160156</TexURV>
+        <BBRadius>3.043575</BBRadius>
+        <BBHScale>1.288094</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.865358</Height>
+        <BoundingMin X="-3.655672" Y="-0.803185" Z="-2.719560" />
+        <BoundingMax X="4.185150" Y="2.927530" Z="3.367590" />
+        <BoundingCenter X="0.264739" Y="1.062172" Z="0.324015" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_DoorWall</Name>
+        <File>dz\structures\ruins\ruin_doorwall.p3d</File>
+        <Date>06/21/22 18:53:30</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>696689711</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.562500</TexLLU>
+        <TexLLV>0.125000</TexLLV>
+        <TexURU>0.681641</TexURU>
+        <TexURV>0.129883</TexURV>
+        <BBRadius>0.277159</BBRadius>
+        <BBHScale>23.386618</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.859398</Height>
+        <BoundingMin X="-6.536180" Y="-0.803185" Z="-0.270001" />
+        <BoundingMax X="6.427450" Y="2.915610" Z="0.284317" />
+        <BoundingCenter X="-0.054365" Y="1.056213" Z="0.007158" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_HouseBlock_Corner_Total</Name>
+        <File>dz\structures\ruins\ruin_houseblock_corner_total.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1113142379</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.187500</TexLLV>
+        <TexURU>0.089844</TexURU>
+        <TexURV>0.267578</TexURV>
+        <BBRadius>14.162886</BBRadius>
+        <BBHScale>1.122261</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.342350</Height>
+        <BoundingMin X="-16.053902" Y="-2.426580" Z="-9.967670" />
+        <BoundingMax X="15.735001" Y="8.258121" Z="18.358101" />
+        <BoundingCenter X="-0.159451" Y="2.915770" Z="4.195215" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_HouseBlock_Half</Name>
+        <File>dz\structures\ruins\ruin_houseblock_half.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1601531730</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.437500</TexLLU>
+        <TexLLV>0.187500</TexLLV>
+        <TexURU>0.508789</TexURU>
+        <TexURV>0.256836</TexURV>
+        <BBRadius>9.315315</BBRadius>
+        <BBHScale>1.029609</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>10.090780</Height>
+        <BoundingMin X="-6.576160" Y="-2.597361" Z="-9.065880" />
+        <BoundingMax X="12.606100" Y="17.584200" Z="9.564751" />
+        <BoundingCenter X="3.014970" Y="7.493420" Z="0.249435" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_HouseBlock_Total</Name>
+        <File>dz\structures\ruins\ruin_houseblock_total.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-785976183</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.687500</TexLLU>
+        <TexLLV>0.218750</TexLLV>
+        <TexURU>0.768555</TexURU>
+        <TexURV>0.306641</TexURV>
+        <BBRadius>9.621315</BBRadius>
+        <BBHScale>0.924959</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.775175</Height>
+        <BoundingMin X="-13.933001" Y="-1.698560" Z="-10.068001" />
+        <BoundingMax X="3.865650" Y="5.851790" Z="9.174629" />
+        <BoundingCenter X="-5.033675" Y="2.076615" Z="-0.446686" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_House_Total</Name>
+        <File>dz\structures\ruins\ruin_house_total.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-462422962</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.812500</TexLLU>
+        <TexLLV>0.218750</TexLLV>
+        <TexURU>0.905273</TexURU>
+        <TexURV>0.291992</TexURV>
+        <BBRadius>8.650408</BBRadius>
+        <BBHScale>1.265060</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.621275</Height>
+        <BoundingMin X="-18.235601" Y="-2.900830" Z="-8.999792" />
+        <BoundingMax X="3.650960" Y="6.341721" Z="8.301023" />
+        <BoundingCenter X="-7.292320" Y="1.720445" Z="-0.349384" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Rubble</Name>
+        <File>dz\structures\ruins\ruin_rubble.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>809037715</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.125000</TexLLU>
+        <TexLLV>0.250000</TexLLV>
+        <TexURU>0.212891</TexURU>
+        <TexURV>0.334961</TexURV>
+        <BBRadius>5.435781</BBRadius>
+        <BBHScale>1.025369</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.485505</Height>
+        <BoundingMin X="-6.389990" Y="-1.596920" Z="-4.902540" />
+        <BoundingMax X="4.757370" Y="1.374090" Z="5.969021" />
+        <BoundingCenter X="-0.816310" Y="-0.111415" Z="0.533240" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ruin_Wall</Name>
+        <File>dz\structures\ruins\ruin_wall.p3d</File>
+        <Date>06/21/22 18:53:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1195712063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.250000</TexLLU>
+        <TexLLV>0.250000</TexLLV>
+        <TexURU>0.370117</TexURU>
+        <TexURV>0.256836</TexURV>
+        <BBRadius>0.270000</BBRadius>
+        <BBHScale>16.430578</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.117433</Height>
+        <BoundingMin X="-4.436260" Y="-0.803185" Z="-0.270000" />
+        <BoundingMax X="4.436260" Y="1.431680" Z="0.270000" />
+        <BoundingCenter X="0.000000" Y="0.314247" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

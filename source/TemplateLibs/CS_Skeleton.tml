@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<Library name="CS_Skeleton" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Skeleton_1</Name>
+        <File>cs_skeleton\skeleton_1.p3d</File>
+        <Date>03/29/22 06:35:04</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170239</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.923168</BBRadius>
+        <BBHScale>1.046046</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.397068</XShift>
+        <YShift>-0.474882</YShift>
+        <ZShift>0.080378</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.552062" Y="-0.508891" Z="-1.189258" />
+        <BoundingMax X="0.586880" Y="0.474580" Z="1.606841" />
+        <BoundingCenter X="0.017409" Y="-0.017156" Z="0.208791" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_10</Name>
+        <File>cs_skeleton\skeleton_10.p3d</File>
+        <Date>03/30/22 04:02:16</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1562599887</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.454786</BBRadius>
+        <BBHScale>0.486874</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.002789</XShift>
+        <YShift>-0.005593</YShift>
+        <ZShift>0.000939</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.230253" Y="-0.023462" Z="-0.840544" />
+        <BoundingMax X="0.220668" Y="0.773091" Z="0.080214" />
+        <BoundingCenter X="-0.004792" Y="0.374814" Z="-0.380165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_11</Name>
+        <File>cs_skeleton\skeleton_11.p3d</File>
+        <Date>03/31/22 01:25:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1562599886</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.981955</BBRadius>
+        <BBHScale>0.553629</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.004728</XShift>
+        <YShift>0.003118</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.422364" Y="-0.024814" Z="-0.970986" />
+        <BoundingMax X="0.674369" Y="0.236769" Z="0.999159" />
+        <BoundingCenter X="0.126002" Y="0.105977" Z="0.014087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_12</Name>
+        <File>cs_skeleton\skeleton_12.p3d</File>
+        <Date>03/31/22 01:35:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1562599885</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.578464</BBRadius>
+        <BBHScale>0.798283</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000049</XShift>
+        <YShift>-0.001132</YShift>
+        <ZShift>0.000086</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.494449" Y="-0.018968" Z="-0.940890" />
+        <BoundingMax X="0.429204" Y="0.884468" Z="0.218303" />
+        <BoundingCenter X="-0.032622" Y="0.432750" Z="-0.361294" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_2</Name>
+        <File>cs_skeleton\skeleton_2.p3d</File>
+        <Date>03/29/22 06:35:18</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170240</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.923168</BBRadius>
+        <BBHScale>0.612266</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003383</XShift>
+        <YShift>-0.000160</YShift>
+        <ZShift>-0.000999</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.552062" Y="-0.050128" Z="-1.189258" />
+        <BoundingMax X="0.586880" Y="0.178572" Z="0.657399" />
+        <BoundingCenter X="0.017409" Y="0.064222" Z="-0.265930" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_3</Name>
+        <File>cs_skeleton\skeleton_3.p3d</File>
+        <Date>03/29/22 06:19:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170241</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.579590</BBRadius>
+        <BBHScale>0.797402</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000134</XShift>
+        <YShift>0.000006</YShift>
+        <ZShift>0.000385</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.495396" Y="-0.018968" Z="-0.940890" />
+        <BoundingMax X="0.429204" Y="0.884468" Z="0.218303" />
+        <BoundingCenter X="-0.033096" Y="0.432750" Z="-0.361294" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_4</Name>
+        <File>cs_skeleton\skeleton_4.p3d</File>
+        <Date>03/30/22 02:19:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170242</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.579590</BBRadius>
+        <BBHScale>0.797402</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.609958</XShift>
+        <YShift>0.332187</YShift>
+        <ZShift>0.474286</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.715580" Y="-0.966768" Z="-1.605252" />
+        <BoundingMax X="0.429204" Y="0.884468" Z="0.218303" />
+        <BoundingCenter X="-0.643188" Y="-0.041150" Z="-0.693475" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_5</Name>
+        <File>cs_skeleton\skeleton_5.p3d</File>
+        <Date>03/30/22 03:05:09</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170243</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.981955</BBRadius>
+        <BBHScale>0.554149</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.004728</XShift>
+        <YShift>0.003118</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.422364" Y="-0.024814" Z="-0.970986" />
+        <BoundingMax X="0.675391" Y="0.236769" Z="0.999159" />
+        <BoundingCenter X="0.126513" Y="0.105977" Z="0.014087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_6</Name>
+        <File>cs_skeleton\skeleton_6.p3d</File>
+        <Date>03/30/22 03:04:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170244</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.920337</BBRadius>
+        <BBHScale>0.457306</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.010461</XShift>
+        <YShift>-0.000147</YShift>
+        <ZShift>-0.007207</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.524535" Y="-0.014303" Z="-0.948886" />
+        <BoundingMax X="0.340649" Y="0.330523" Z="0.892082" />
+        <BoundingCenter X="-0.091943" Y="0.158110" Z="-0.028402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_7</Name>
+        <File>cs_skeleton\skeleton_7.p3d</File>
+        <Date>03/30/22 03:03:18</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170245</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.920337</BBRadius>
+        <BBHScale>0.457306</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.010461</XShift>
+        <YShift>0.310026</YShift>
+        <ZShift>0.384559</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.524535" Y="-1.000527" Z="-1.569233" />
+        <BoundingMax X="0.340649" Y="1.000531" Z="0.892082" />
+        <BoundingCenter X="-0.091943" Y="0.000002" Z="-0.338575" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_8</Name>
+        <File>cs_skeleton\skeleton_8.p3d</File>
+        <Date>03/30/22 03:31:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170246</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.779840</BBRadius>
+        <BBHScale>0.692010</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.008615</XShift>
+        <YShift>-0.005953</YShift>
+        <ZShift>0.000332</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.693475" Y="-0.032099" Z="-0.559310" />
+        <BoundingMax X="0.403068" Y="0.242316" Z="1.013314" />
+        <BoundingCenter X="-0.145203" Y="0.105109" Z="0.227002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Skeleton_9</Name>
+        <File>cs_skeleton\skeleton_9.p3d</File>
+        <Date>03/30/22 03:40:13</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1419170247</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.002058</BBRadius>
+        <BBHScale>0.634949</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.014155</YShift>
+        <ZShift>0.000333</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.640250" Y="-0.032099" Z="-0.995329" />
+        <BoundingMax X="0.632262" Y="0.242316" Z="1.042487" />
+        <BoundingCenter X="-0.003994" Y="0.105109" Z="0.023579" />
+        <Placement></Placement>
+    </Template>
+</Library>

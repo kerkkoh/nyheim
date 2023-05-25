@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<Library name="CS_Walls" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>CS_Wall</Name>
+        <File>cs_walls\wall\cs_wall.p3d</File>
+        <Date>03/28/22 20:20:10</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1918378073</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.644382</BBRadius>
+        <BBHScale>2.769449</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.772611" Y="0.000001" Z="-1.736486" />
+        <BoundingMax X="4.335452" Y="7.999187" Z="1.552277" />
+        <BoundingCenter X="-0.218580" Y="3.999594" Z="-0.092104" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Wall_Corner</Name>
+        <File>cs_walls\wall_corner\cs_wall_corner.p3d</File>
+        <Date>03/28/22 20:20:10</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1196914181</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.571126</BBRadius>
+        <BBHScale>0.998675</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.793742</XShift>
+        <YShift>-0.003019</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.000008" Y="0.000000" Z="-2.213348" />
+        <BoundingMax X="4.725566" Y="7.996066" Z="0.934941" />
+        <BoundingCenter X="2.362779" Y="3.998033" Z="-0.639204" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Wall_Gate</Name>
+        <File>cs_walls\wall_gate\cs_wall_gate.p3d</File>
+        <Date>03/28/22 20:20:10</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>160485905</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.644382</BBRadius>
+        <BBHScale>2.768889</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000462</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.636167" Y="-0.001497" Z="-1.346032" />
+        <BoundingMax X="4.470056" Y="7.999187" Z="1.942732" />
+        <BoundingCenter X="-0.083055" Y="3.998845" Z="0.298350" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Wall_Stairs_Left</Name>
+        <File>cs_walls\wall_stairs_left\cs_wall_stairs_left.p3d</File>
+        <Date>03/28/22 20:20:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1884326806</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.378273</BBRadius>
+        <BBHScale>1.951001</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.022999</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.809975" Y="-0.045998" Z="-2.730547" />
+        <BoundingMax X="4.470055" Y="8.033799" Z="2.026000" />
+        <BoundingCenter X="-0.169960" Y="3.993901" Z="-0.352273" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Wall_Stairs_Right</Name>
+        <File>cs_walls\wall_stairs_right\cs_wall_stairs_right.p3d</File>
+        <Date>03/28/22 20:20:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2122325011</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.378274</BBRadius>
+        <BBHScale>1.951001</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.023145</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.809974" Y="-0.046289" Z="-2.541112" />
+        <BoundingMax X="4.470055" Y="8.033802" Z="2.215436" />
+        <BoundingCenter X="-0.169959" Y="3.993756" Z="-0.162838" />
+        <Placement></Placement>
+    </Template>
+</Library>

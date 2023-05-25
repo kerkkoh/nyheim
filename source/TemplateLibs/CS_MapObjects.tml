@@ -1,0 +1,399 @@
+<?xml version="1.0" ?>
+<Library name="CS_MapObjects" shape="rectangle" default_fill="-8355585" default_outline="-1" tex="0">
+    <Template>
+        <Name>Airdrop</Name>
+        <File>cs_mapobjects\airdrop\airdrop.p3d</File>
+        <Date>03/27/22 18:20:12</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>496520665</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.790319</BBRadius>
+        <BBHScale>0.901093</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.001914</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.717312" Y="-0.011540" Z="-0.796425" />
+        <BoundingMax X="0.710819" Y="1.351343" Z="0.784214" />
+        <BoundingCenter X="-0.003246" Y="0.669901" Z="-0.006106" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Barrier_Block_1</Name>
+        <File>cs_mapobjects\barrier_block_1\barrier_block_1.p3d</File>
+        <Date>04/01/22 17:36:12</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-363554729</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.381000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000112</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.381947" Y="0.000190" Z="-0.377210" />
+        <BoundingMax X="0.380053" Y="0.846313" Z="0.384790" />
+        <BoundingCenter X="-0.000947" Y="0.423252" Z="0.003790" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Barrier_Block_2</Name>
+        <File>cs_mapobjects\barrier_block_2\barrier_block_2.p3d</File>
+        <Date>04/01/22 17:36:49</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-363554728</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.275433</BBRadius>
+        <BBHScale>2.766551</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000281</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.759788" Y="0.000118" Z="-0.272204" />
+        <BoundingMax X="0.764212" Y="0.751229" Z="0.278663" />
+        <BoundingCenter X="0.002212" Y="0.375673" Z="0.003230" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Barrier_Large</Name>
+        <File>cs_mapobjects\barrier_large\barrier_large.p3d</File>
+        <Date>04/07/22 13:03:55</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-467418989</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.332963</BBRadius>
+        <BBHScale>1.839368</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000091</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.614533" Y="0.000086" Z="-0.335494" />
+        <BoundingMax X="0.610351" Y="2.360544" Z="0.330433" />
+        <BoundingCenter X="-0.002091" Y="1.180315" Z="-0.002530" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bunker</Name>
+        <File>cs_mapobjects\bunker\cs_bunker.p3d</File>
+        <Date>03/27/22 18:20:13</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-176438275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.429276</BBRadius>
+        <BBHScale>0.587877</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.328302</YShift>
+        <ZShift>-1.155530</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.092410" Y="-0.000725" Z="-4.278255" />
+        <BoundingMax X="3.291083" Y="5.128335" Z="5.938972" />
+        <BoundingCenter X="0.099337" Y="2.563805" Z="0.830359" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bunker2</Name>
+        <File>cs_mapobjects\bunker2\cs_bunker2.p3d</File>
+        <Date>03/27/22 18:20:13</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>762461045</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.915865</BBRadius>
+        <BBHScale>0.476906</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000001</XShift>
+        <YShift>0.027623</YShift>
+        <ZShift>-0.577511</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.627691" Y="0.006248" Z="-11.743795" />
+        <BoundingMax X="5.783988" Y="7.201365" Z="10.032687" />
+        <BoundingCenter X="0.578149" Y="3.603806" Z="-0.855554" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fence_1</Name>
+        <File>cs_mapobjects\fence\fence_1.p3d</File>
+        <Date>03/27/22 18:20:13</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1358014749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.195277</BBRadius>
+        <BBHScale>2.706431</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.048410</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.492331" Y="-0.000000" Z="-0.047605" />
+        <BoundingMax X="0.564677" Y="2.699575" Z="0.342949" />
+        <BoundingCenter X="0.036173" Y="1.349787" Z="0.147672" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fence_2</Name>
+        <File>cs_mapobjects\fence\fence_2.p3d</File>
+        <Date>03/27/22 18:20:13</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1358014748</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.195277</BBRadius>
+        <BBHScale>5.383228</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.048410</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.079784" Y="-0.000000" Z="-0.047605" />
+        <BoundingMax X="1.022656" Y="2.699575" Z="0.342949" />
+        <BoundingCenter X="-0.028564" Y="1.349787" Z="0.147672" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Trader</Name>
+        <File>cs_mapobjects\trader\trader.p3d</File>
+        <Date>03/27/22 18:20:11</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1485469486</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.846246</BBRadius>
+        <BBHScale>1.125758</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.513862</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.332915" Y="-0.010308" Z="-2.742331" />
+        <BoundingMax X="4.326969" Y="4.287869" Z="4.950161" />
+        <BoundingCenter X="-0.002973" Y="2.138781" Z="1.103915" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WallFlag</Name>
+        <File>cs_mapobjects\wallflag\wallflag.p3d</File>
+        <Date>04/01/22 17:35:56</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2111465290</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.118600</BBRadius>
+        <BBHScale>6.357191</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.003640</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.754905" Y="0.000462" Z="-0.066145" />
+        <BoundingMax X="0.753023" Y="2.455601" Z="0.171055" />
+        <BoundingCenter X="-0.000941" Y="1.228032" Z="0.052455" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_1</Name>
+        <File>cs_mapobjects\bridge\bridge.p3d</File>
+        <Date>03/27/22 18:20:13</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1034168105</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.878475</BBRadius>
+        <BBHScale>0.257403</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000001</XShift>
+        <YShift>-0.000001</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.123084" Y="0.001895" Z="-23.833532" />
+        <BoundingMax X="6.169687" Y="13.511886" Z="23.923422" />
+        <BoundingCenter X="0.023302" Y="6.756891" Z="0.044945" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Tower_1</Name>
+        <File>cs_mapobjects\tower\cs_tower.p3d</File>
+        <Date>04/08/22 22:03:33</Date>
+        <Archive></Archive>
+        <Fill>-8355585</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1325269655</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.849996</BBRadius>
+        <BBHScale>1.000020</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.144626" Y="-0.051662" Z="-2.543331" />
+        <BoundingMax X="2.555482" Y="12.426399" Z="3.156662" />
+        <BoundingCenter X="-0.294572" Y="6.187369" Z="0.306665" />
+        <Placement></Placement>
+    </Template>
+</Library>

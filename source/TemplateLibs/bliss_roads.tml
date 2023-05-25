@@ -1,0 +1,3897 @@
+<?xml version="1.0" ?>
+<Library name="bliss_roads" shape="rectangle" default_fill="-8372160" default_outline="-1" tex="0">
+    <Template>
+        <Name>Bridge_Concrete1_25</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete1_25.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>644744108</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_Concrete1_Left</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete1_left.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1879646928</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_Concrete1_Right</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete1_right.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>120003379</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_Concrete2_25</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete2_25.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1425331307</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.317976</BBRadius>
+        <BBHScale>0.425243</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.804797</Height>
+        <BoundingMin X="-8.605045" Y="-2.623867" Z="-20.219717" />
+        <BoundingMax X="8.675095" Y="6.985728" Z="20.416235" />
+        <BoundingCenter X="0.035025" Y="2.180930" Z="0.098259" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_Concrete2_Left</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete2_left.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2043313137</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.647369</BBRadius>
+        <BBHScale>0.914745</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.291521</Height>
+        <BoundingMin X="-10.653474" Y="-1.600215" Z="-10.715061" />
+        <BoundingMax X="10.655263" Y="6.982827" Z="12.579678" />
+        <BoundingCenter X="0.000895" Y="2.691306" Z="0.932308" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bridge_Concrete2_Right</Name>
+        <File>dz\structures_bliss\roads\bridges\bridge_concrete2_right.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-581826124</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.609922</BBRadius>
+        <BBHScale>0.914120</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.283080</Height>
+        <BoundingMin X="-10.586096" Y="-1.600215" Z="-12.256283" />
+        <BoundingMax X="10.639624" Y="6.965945" Z="10.963562" />
+        <BoundingCenter X="0.026764" Y="2.682865" Z="-0.646360" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix1</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix1.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.313108</BBRadius>
+        <BBHScale>0.509702</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.175143" Y="-0.000000" Z="-2.312253" />
+        <BoundingMax X="1.182846" Y="0.000000" Z="2.313963" />
+        <BoundingCenter X="0.003852" Y="-0.000000" Z="0.000855" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix2</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix2.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975025</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix3</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix3.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975024</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix4</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix4.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975023</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix5</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix5.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975022</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.196369</BBRadius>
+        <BBHScale>17.823614</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="-0.000000" Z="-0.194577" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="0.198160" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.001791" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_fix6</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_fix6.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-175975021</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.191051</BBRadius>
+        <BBHScale>14.652145</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.801233" Y="-0.000000" Z="-0.192700" />
+        <BoundingMax X="2.797387" Y="0.000000" Z="0.189402" />
+        <BoundingCenter X="-0.001923" Y="0.000000" Z="-0.001649" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch01</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch01.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138569</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch02</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch02.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138568</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.347081</BBRadius>
+        <BBHScale>0.568044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.729375" Y="-0.000000" Z="-1.414729" />
+        <BoundingMax X="0.801029" Y="0.000000" Z="1.279434" />
+        <BoundingCenter X="0.035827" Y="0.000000" Z="-0.067647" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch03</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch03.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138567</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch04</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch04.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138566</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.828063</BBRadius>
+        <BBHScale>1.759835</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.472025" Y="-0.000000" Z="-0.857603" />
+        <BoundingMax X="1.442486" Y="0.000000" Z="0.798524" />
+        <BoundingCenter X="-0.014770" Y="0.000000" Z="-0.029539" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch05</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch05.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138565</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.002171</BBRadius>
+        <BBHScale>0.507047</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.539965" Y="-0.000001" Z="-2.910599" />
+        <BoundingMax X="1.504518" Y="0.000000" Z="3.093743" />
+        <BoundingCenter X="-0.017723" Y="-0.000000" Z="0.091572" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch06</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch06.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138564</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.997828</BBRadius>
+        <BBHScale>0.461317</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.915725" Y="-0.000000" Z="-1.977151" />
+        <BoundingMax X="0.927541" Y="0.000000" Z="2.018506" />
+        <BoundingCenter X="0.005908" Y="-0.000000" Z="0.020678" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch07</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch07.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138563</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch08</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch08.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138562</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.192789</BBRadius>
+        <BBHScale>0.508301</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.088012" Y="-0.000000" Z="-2.192789" />
+        <BoundingMax X="1.141182" Y="0.000000" Z="2.192789" />
+        <BoundingCenter X="0.026585" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch09</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch09.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396138561</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch10</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch10.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396072971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch11</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch11.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396072970</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_asphalt_patch12</Name>
+        <File>dz\structures_bliss\roads\decals\decal_asphalt_patch12.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1396072969</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_long10</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_long10.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-55888359</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_long6</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_long6.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1243332572</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.444361</BBRadius>
+        <BBHScale>0.474044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.997318" Y="0.000000" Z="-6.444361" />
+        <BoundingMax X="3.112505" Y="0.001000" Z="6.444361" />
+        <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_long7</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_long7.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1243332573</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.111829</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.933677" Y="0.000000" Z="-6.111829" />
+        <BoundingMax X="2.933677" Y="0.001000" Z="6.111829" />
+        <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_long8</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_long8.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1243332574</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.833901</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000350</Height>
+        <BoundingMin X="-2.320272" Y="0.000000" Z="-4.833901" />
+        <BoundingMax X="2.320272" Y="0.000700" Z="4.833901" />
+        <BoundingCenter X="0.000000" Y="0.000350" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_long9</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_long9.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1243332575</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.296573</BBRadius>
+        <BBHScale>0.502908</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.976960" Y="0.000000" Z="-6.308748" />
+        <BoundingMax X="3.356235" Y="0.001000" Z="6.284399" />
+        <BoundingCenter X="0.189637" Y="0.000500" Z="-0.012175" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium10</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium10.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1682652306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.968720</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
+        <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
+        <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium4</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium4.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.329003</BBRadius>
+        <BBHScale>0.709989</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000001</Height>
+        <BoundingMin X="-2.550278" Y="-0.000000" Z="-3.648955" />
+        <BoundingMax X="2.176836" Y="0.000001" Z="3.009052" />
+        <BoundingCenter X="-0.186721" Y="0.000000" Z="-0.319952" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium5</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium5.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924258</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.921126</BBRadius>
+        <BBHScale>0.755171</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.112125" Y="-0.000000" Z="-2.873346" />
+        <BoundingMax X="2.299776" Y="0.000000" Z="2.968906" />
+        <BoundingCenter X="0.093825" Y="-0.000000" Z="0.047780" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium6</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium6.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.885957</BBRadius>
+        <BBHScale>0.981655</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.136934" Y="-0.000000" Z="-3.103819" />
+        <BoundingMax X="2.529093" Y="0.000001" Z="2.668095" />
+        <BoundingCenter X="-0.303920" Y="0.000000" Z="-0.217862" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium7</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium7.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924260</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.827822</BBRadius>
+        <BBHScale>0.291185</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.871453" Y="-0.000000" Z="-2.733338" />
+        <BoundingMax X="0.775384" Y="0.000000" Z="2.922306" />
+        <BoundingCenter X="-0.048034" Y="-0.000000" Z="0.094484" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium8</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium8.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924261</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.650863</BBRadius>
+        <BBHScale>0.543748</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.383947" Y="-0.000000" Z="-2.338634" />
+        <BoundingMax X="1.498857" Y="0.000000" Z="2.963092" />
+        <BoundingCenter X="0.057455" Y="-0.000000" Z="0.312229" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_damage_medium9</Name>
+        <File>dz\structures_bliss\roads\decals\decal_damage_medium9.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>875924262</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.968720</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
+        <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
+        <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_dirt_damage_long1</Name>
+        <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long1.p3d</File>
+        <Date>06/21/22 20:50:47</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>447668171</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.833271</BBRadius>
+        <BBHScale>0.474044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
+        <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
+        <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_dirt_damage_long2</Name>
+        <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long2.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>447668172</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.833271</BBRadius>
+        <BBHScale>0.474044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
+        <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
+        <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_dirt_damage_long3</Name>
+        <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long3.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>447668173</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.833271</BBRadius>
+        <BBHScale>0.474044</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000500</Height>
+        <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
+        <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
+        <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_dirt_rocks1</Name>
+        <File>dz\structures_bliss\roads\decals\decal_dirt_rocks1.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1765918857</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.496752</BBRadius>
+        <BBHScale>0.709989</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.912709" Y="-0.000000" Z="-2.736716" />
+        <BoundingMax X="1.632627" Y="0.000000" Z="2.256789" />
+        <BoundingCenter X="-0.140041" Y="0.000000" Z="-0.239964" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_dirt_rocks2</Name>
+        <File>dz\structures_bliss\roads\decals\decal_dirt_rocks2.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1765918858</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.800000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.800000" Y="0.000000" Z="-1.800000" />
+        <BoundingMax X="1.800000" Y="0.000000" Z="1.800000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_oilstain1</Name>
+        <File>dz\structures_bliss\roads\decals\decal_oilstain1.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>539002668</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.596122</BBRadius>
+        <BBHScale>0.677302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.081056" Y="-0.000000" Z="-1.597973" />
+        <BoundingMax X="1.081056" Y="0.000000" Z="1.594271" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-0.001851" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_oilstain2</Name>
+        <File>dz\structures_bliss\roads\decals\decal_oilstain2.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>539002669</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.827974</BBRadius>
+        <BBHScale>1.305665</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.081056" Y="-0.000000" Z="-0.824888" />
+        <BoundingMax X="1.081056" Y="0.000000" Z="0.831059" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.003086" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_oilstain3</Name>
+        <File>dz\structures_bliss\roads\decals\decal_oilstain3.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>539002670</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.716910</BBRadius>
+        <BBHScale>1.507938</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.081056" Y="-0.000000" Z="-0.719873" />
+        <BoundingMax X="1.081056" Y="0.000000" Z="0.713948" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-0.002962" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Decal_oilstain4</Name>
+        <File>dz\structures_bliss\roads\decals\decal_oilstain4.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>539002671</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.715994</BBRadius>
+        <BBHScale>1.509867</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.081056" Y="-0.000000" Z="-0.714266" />
+        <BoundingMax X="1.081056" Y="0.000000" Z="0.717722" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.001728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_BoundaryStone_Big</Name>
+        <File>dz\structures_bliss\roads\misc\misc_boundarystone_big.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1235593513</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Misc_BoundaryStone_Small</Name>
+        <File>dz\structures_bliss\roads\misc\misc_boundarystone_small.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1305932976</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ConcretePanels_02_four_F</Name>
+        <File>dz\structures_bliss\roads\panels\concretepanels_02_four_f.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1939648383</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.349360</BBRadius>
+        <BBHScale>0.468817</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.092255</Height>
+        <BoundingMin X="-2.117436" Y="-0.092255" Z="-4.283771" />
+        <BoundingMax X="1.960669" Y="0.092255" Z="4.414950" />
+        <BoundingCenter X="-0.078384" Y="0.000000" Z="0.065589" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Panels_Concrete_Small</Name>
+        <File>dz\structures_bliss\roads\panels\panels_concrete_small.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1872024643</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.349360</BBRadius>
+        <BBHScale>0.468817</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.092255</Height>
+        <BoundingMin X="-2.117436" Y="-0.092255" Z="-4.283771" />
+        <BoundingMax X="1.960669" Y="0.092255" Z="4.414950" />
+        <BoundingCenter X="-0.078384" Y="0.000000" Z="0.065589" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Panel_Concrete_Small_1</Name>
+        <File>dz\structures_bliss\roads\panels\panel_concrete_small_1.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1995382970</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.005912</BBRadius>
+        <BBHScale>0.507509</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.092255</Height>
+        <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
+        <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Panel_Concrete_Small_2</Name>
+        <File>dz\structures_bliss\roads\panels\panel_concrete_small_2.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1995382971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.005912</BBRadius>
+        <BBHScale>0.507509</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.092255</Height>
+        <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
+        <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Panel_Concrete_Small_Dam</Name>
+        <File>dz\structures_bliss\roads\panels\panel_concrete_small_dam.p3d</File>
+        <Date>06/21/22 20:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>380805785</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.005912</BBRadius>
+        <BBHScale>0.507509</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.092255</Height>
+        <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
+        <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_0 2000</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_0 2000.p3d</File>
+        <Date>06/24/19 13:38:52</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>274621695</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.787725</BBRadius>
+        <BBHScale>0.689839</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000059</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.024108" Y="0.000000" Z="-0.034905" />
+        <BoundingMax X="6.100121" Y="0.000118" Z="17.540546" />
+        <BoundingCenter X="0.038006" Y="0.000059" Z="8.752821" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_1 1000</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_1 1000.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-133958273</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_10 100</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_10 100.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>542382177</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_10 25</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_10 25.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1454296019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_10 50</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_10 50.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1454492811</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_10 75</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_10 75.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1454624014</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_12</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_12.p3d</File>
+        <Date>06/24/19 13:40:30</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1919405266</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.275000</BBRadius>
+        <BBHScale>0.960000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.024000" Y="0.000000" Z="-0.025000" />
+        <BoundingMax X="6.024000" Y="0.000000" Z="12.525000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_15 75</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_15 75.p3d</File>
+        <Date>06/24/19 13:40:44</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1062592713</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.524099</BBRadius>
+        <BBHScale>0.684549</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.027627" Y="0.000000" Z="-0.039018" />
+        <BoundingMax X="8.380895" Y="0.000000" Z="21.009180" />
+        <BoundingCenter X="1.176634" Y="0.000000" Z="10.485081" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_22 50</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_22 50.p3d</File>
+        <Date>06/24/19 13:40:56</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-139735798</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.757996</BBRadius>
+        <BBHScale>0.716244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.029414" Y="0.000000" Z="-0.038705" />
+        <BoundingMax X="9.381283" Y="0.000000" Z="21.477287" />
+        <BoundingCenter X="1.675934" Y="0.000000" Z="10.719292" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_25</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_25.p3d</File>
+        <Date>06/24/19 13:41:06</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1919470868</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.549999</BBRadius>
+        <BBHScale>0.480000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.024000" Y="0.000000" Z="-0.049999" />
+        <BoundingMax X="6.024000" Y="0.000000" Z="25.049999" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_30 25</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_30 25.p3d</File>
+        <Date>06/24/19 13:41:18</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-561542699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.781000</BBRadius>
+        <BBHScale>0.938420</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.028780" Y="0.000000" Z="-0.025514" />
+        <BoundingMax X="8.574918" Y="0.000000" Z="15.536486" />
+        <BoundingCenter X="1.273069" Y="0.000000" Z="7.755486" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_6</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_6.p3d</File>
+        <Date>06/24/19 13:39:12</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2017784987</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.024000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="6.024000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_60 10</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_60 10.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1437882732</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_6konec</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_6konec.p3d</File>
+        <Date>06/24/19 13:39:24</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1333457469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>1.920000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.024000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="6.024000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf1enoch_7 100</Name>
+        <File>dz\structures_bliss\roads\parts\asf1enoch_7 100.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>237568247</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_0 2000</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_0 2000.p3d</File>
+        <Date>06/24/19 13:50:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-588873216</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.781155</BBRadius>
+        <BBHScale>0.518855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518107" Y="0.000000" Z="-0.034905" />
+        <BoundingMax X="4.594179" Y="0.000000" Z="17.527403" />
+        <BoundingCenter X="0.038036" Y="0.000000" Z="8.746248" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_1 1000</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_1 1000.p3d</File>
+        <Date>06/24/19 13:50:54</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-997453184</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.800533</BBRadius>
+        <BBHScale>0.522027</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518216" Y="0.000000" Z="-0.034905" />
+        <BoundingMax X="4.670010" Y="0.000000" Z="17.566160" />
+        <BoundingCenter X="0.075897" Y="0.000000" Z="8.765627" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_10 100</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_10 100.p3d</File>
+        <Date>06/24/19 13:51:48</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-321112734</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.109409</BBRadius>
+        <BBHScale>0.575924</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.520154" Y="0.000000" Z="-0.034806" />
+        <BoundingMax X="5.972507" Y="0.000000" Z="18.184011" />
+        <BoundingCenter X="0.726177" Y="0.000000" Z="9.074602" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_10 25</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_10 25.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1674206866</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_10 50</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_10 50.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1674403658</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_10 75</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_10 75.p3d</File>
+        <Date>06/24/19 13:51:42</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1674534861</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.930125</BBRadius>
+        <BBHScale>0.729521</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.519616" Y="0.000000" Z="-0.026105" />
+        <BoundingMax X="5.591722" Y="0.000000" Z="13.834145" />
+        <BoundingCenter X="0.536053" Y="0.000000" Z="6.904020" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_12</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_12.p3d</File>
+        <Date>06/24/19 13:51:58</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1166117587</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.275000</BBRadius>
+        <BBHScale>0.720000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518000" Y="0.000000" Z="-0.025000" />
+        <BoundingMax X="4.518000" Y="0.000000" Z="12.525000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_15 75</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_15 75.p3d</File>
+        <Date>10/29/19 16:56:30</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1282503560</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.329208</BBRadius>
+        <BBHScale>0.554149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.521630" Y="0.000000" Z="-0.039018" />
+        <BoundingMax X="6.926208" Y="0.000000" Z="20.619400" />
+        <BoundingCenter X="1.202289" Y="0.000000" Z="10.290192" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_22 50</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_22 50.p3d</File>
+        <Date>06/24/19 13:52:10</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>80175049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.469835</BBRadius>
+        <BBHScale>0.597590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.523425" Y="0.000000" Z="-0.038703" />
+        <BoundingMax X="7.989910" Y="0.000000" Z="20.900969" />
+        <BoundingCenter X="1.733243" Y="0.000000" Z="10.431133" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_25</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_25.p3d</File>
+        <Date>06/24/19 13:52:18</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1166183189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.549999</BBRadius>
+        <BBHScale>0.360000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518000" Y="0.000000" Z="-0.049999" />
+        <BoundingMax X="4.518000" Y="0.000000" Z="25.049999" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_30 25</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_30 25.p3d</File>
+        <Date>06/24/19 13:52:24</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-341631852</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.404500</BBRadius>
+        <BBHScale>0.796372</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.522798" Y="0.000000" Z="-0.025509" />
+        <BoundingMax X="7.270667" Y="0.000000" Z="14.783490" />
+        <BoundingCenter X="1.373935" Y="0.000000" Z="7.378991" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_6</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_6.p3d</File>
+        <Date>06/24/19 13:51:02</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>718060836</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>1.440000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="4.518000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_60 10</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_60 10.p3d</File>
+        <Date>06/24/19 13:52:32</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1217971885</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.303799</BBRadius>
+        <BBHScale>0.935706</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.525304" Y="0.000000" Z="-0.018877" />
+        <BoundingMax X="7.271695" Y="0.000000" Z="12.588720" />
+        <BoundingCenter X="1.373196" Y="0.000000" Z="6.284922" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_6konec</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_6konec.p3d</File>
+        <Date>06/24/19 13:51:08</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2098014916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>1.440000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.518000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="4.518000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>asf2enoch_7 100</Name>
+        <File>dz\structures_bliss\roads\parts\asf2enoch_7 100.p3d</File>
+        <Date>06/24/19 13:51:16</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>457479094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.847273</BBRadius>
+        <BBHScale>0.719723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.519213" Y="0.000000" Z="-0.026137" />
+        <BoundingMax X="5.337070" Y="0.000000" Z="13.668409" />
+        <BoundingCenter X="0.408929" Y="0.000000" Z="6.821136" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_0 2000</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_0 2000.p3d</File>
+        <Date>07/10/19 09:05:06</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-184527234</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.772394</BBRadius>
+        <BBHScale>0.290477</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510108" Y="0.000000" Z="-0.034905" />
+        <BoundingMax X="2.586255" Y="0.000000" Z="17.509882" />
+        <BoundingCenter X="0.038073" Y="0.000000" Z="8.737488" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_1 1000</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_1 1000.p3d</File>
+        <Date>07/10/19 09:05:22</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-593107202</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.783010</BBRadius>
+        <BBHScale>0.294462</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510216" Y="0.000000" Z="-0.034905" />
+        <BoundingMax X="2.662316" Y="0.000000" Z="17.531115" />
+        <BoundingCenter X="0.076050" Y="0.000000" Z="8.748104" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_10 100</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_10 100.p3d</File>
+        <Date>07/10/19 09:08:52</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>83233248</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.935066</BBRadius>
+        <BBHScale>0.364137</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.512155" Y="-0.000000" Z="-0.034806" />
+        <BoundingMax X="3.995014" Y="0.000000" Z="17.835327" />
+        <BoundingCenter X="0.741430" Y="0.000000" Z="8.900261" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_10 25</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_10 25.p3d</File>
+        <Date>07/10/19 09:06:40</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1535276396</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.397213</BBRadius>
+        <BBHScale>1.118631</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510539" Y="0.000000" Z="-0.008702" />
+        <BoundingMax X="2.852654" Y="0.000000" Z="4.785724" />
+        <BoundingCenter X="0.171058" Y="0.000000" Z="2.388511" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_10 50</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_10 50.p3d</File>
+        <Date>07/10/19 09:07:02</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1535079604</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.576498</BBRadius>
+        <BBHScale>0.627611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.511077" Y="0.000000" Z="-0.017403" />
+        <BoundingMax X="3.233441" Y="0.000000" Z="9.135592" />
+        <BoundingCenter X="0.361182" Y="0.000000" Z="4.559094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_10 75</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_10 75.p3d</File>
+        <Date>07/10/19 09:08:40</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1534948401</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.755782</BBRadius>
+        <BBHScale>0.453378</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.511616" Y="0.000000" Z="-0.026105" />
+        <BoundingMax X="3.614227" Y="0.000000" Z="13.485459" />
+        <BoundingCenter X="0.551306" Y="0.000000" Z="6.729677" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_12</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_12.p3d</File>
+        <Date>07/10/19 09:09:06</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2053726895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.275000</BBRadius>
+        <BBHScale>0.400000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510000" Y="-0.000000" Z="-0.025000" />
+        <BoundingMax X="2.510000" Y="0.000000" Z="12.525000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_15 75</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_15 75.p3d</File>
+        <Date>07/10/19 09:09:24</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1926979702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.069355</BBRadius>
+        <BBHScale>0.372430</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.513630" Y="-0.000000" Z="-0.039018" />
+        <BoundingMax X="4.986629" Y="0.000000" Z="20.099691" />
+        <BoundingCenter X="1.236499" Y="0.000000" Z="10.030336" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_22 50</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_22 50.p3d</File>
+        <Date>07/10/19 09:09:40</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1165659083</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.085621</BBRadius>
+        <BBHScale>0.428838</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.515425" Y="-0.000000" Z="-0.038703" />
+        <BoundingMax X="6.134760" Y="0.000000" Z="20.132540" />
+        <BoundingCenter X="1.809667" Y="0.000000" Z="10.046919" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_25</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_25.p3d</File>
+        <Date>07/10/19 09:09:52</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2053661293</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.549999</BBRadius>
+        <BBHScale>0.200000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510000" Y="0.000000" Z="-0.049999" />
+        <BoundingMax X="2.510000" Y="0.000000" Z="25.049999" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_30 25</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_30 25.p3d</File>
+        <Date>07/10/19 09:10:06</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>743852182</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.902500</BBRadius>
+        <BBHScale>0.582868</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.514798" Y="-0.000000" Z="-0.025509" />
+        <BoundingMax X="5.531689" Y="0.000000" Z="13.779490" />
+        <BoundingCenter X="1.508446" Y="0.000000" Z="6.876991" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_6</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_6.p3d</File>
+        <Date>07/10/19 09:05:50</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1523919654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="2.510000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_60 10</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_60 10.p3d</File>
+        <Date>07/10/19 09:10:16</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-132487851</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.434309</BBRadius>
+        <BBHScale>0.808290</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.517405" Y="-0.000000" Z="-0.018818" />
+        <BoundingMax X="6.267595" Y="0.000000" Z="10.849800" />
+        <BoundingCenter X="1.875095" Y="0.000000" Z="5.415491" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_6konec</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_6konec.p3d</File>
+        <Date>07/10/19 09:06:04</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1792606398</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.137500</BBRadius>
+        <BBHScale>0.800000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.510000" Y="0.000000" Z="-0.012500" />
+        <BoundingMax X="2.510000" Y="0.000000" Z="6.262500" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>mudenoch_7 100</Name>
+        <File>dz\structures_bliss\roads\parts\mudenoch_7 100.p3d</File>
+        <Date>07/10/19 09:06:20</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1542963128</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.716225</BBRadius>
+        <BBHScale>0.436068</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.511213" Y="0.000000" Z="-0.026137" />
+        <BoundingMax X="3.346250" Y="0.000000" Z="13.406313" />
+        <BoundingCenter X="0.417518" Y="0.000000" Z="6.690088" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_dirt_10</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_dirt_10.p3d</File>
+        <Date>06/21/22 20:51:00</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1623864894</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.660861</BBRadius>
+        <BBHScale>0.207322</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="0.000000" Z="-0.369270" />
+        <BoundingMax X="1.347246" Y="0.000000" Z="10.952453" />
+        <BoundingCenter X="0.173623" Y="0.000000" Z="5.291591" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_dirt_30</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_dirt_30.p3d</File>
+        <Date>06/21/22 20:51:00</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1623996092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.914391</BBRadius>
+        <BBHScale>0.091922</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.008978</Height>
+        <BoundingMin X="-1.463090" Y="-0.017952" Z="-2.115210" />
+        <BoundingMax X="1.646534" Y="0.000005" Z="31.713572" />
+        <BoundingCenter X="0.091722" Y="-0.008973" Z="14.799181" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_dirt_curve</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_dirt_curve.p3d</File>
+        <Date>06/21/22 20:51:00</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>310292176</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.728039</BBRadius>
+        <BBHScale>0.297913</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.202476" Y="0.000000" Z="-0.529301" />
+        <BoundingMax X="2.806272" Y="0.000000" Z="12.926778" />
+        <BoundingCenter X="0.801898" Y="0.000000" Z="6.198739" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_rock_10</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_rock_10.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-23682816</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_rock_30</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_rock_30.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-23551618</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pathenoch_rock_curve</Name>
+        <File>dz\structures_bliss\roads\parts\pathenoch_rock_curve.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1572080242</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_4m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_4m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>940156004</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.159175</BBRadius>
+        <BBHScale>1.390283</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.256098</Height>
+        <BoundingMin X="-3.003726" Y="-0.402196" Z="-2.145667" />
+        <BoundingMax X="3.000000" Y="0.110000" Z="2.172683" />
+        <BoundingCenter X="-0.001863" Y="-0.146098" Z="0.013508" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_8m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_8m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>940418400</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.164474</BBRadius>
+        <BBHScale>2.310030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.255000</Height>
+        <BoundingMin X="-5.076668" Y="-0.400000" Z="-2.156266" />
+        <BoundingMax X="4.923333" Y="0.110000" Z="2.172683" />
+        <BoundingCenter X="-0.076668" Y="-0.145000" Z="0.008208" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Border_2m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_2m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1648164285</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161344</BBRadius>
+        <BBHScale>6.412091</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.381294</Height>
+        <BoundingMin X="-1.034550" Y="-0.500000" Z="-0.161361" />
+        <BoundingMax X="1.034550" Y="0.262587" Z="0.161327" />
+        <BoundingCenter X="0.000000" Y="-0.118706" Z="-0.000017" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Border_4m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_4m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1648033087</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.177772</BBRadius>
+        <BBHScale>11.639043</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.377592</Height>
+        <BoundingMin X="-2.068344" Y="-0.500000" Z="-0.177789" />
+        <BoundingMax X="2.069856" Y="0.255184" Z="0.177755" />
+        <BoundingCenter X="0.000756" Y="-0.122408" Z="-0.000017" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Border_8m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_8m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1647770691</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.222215</BBRadius>
+        <BBHScale>18.526564</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.379165</Height>
+        <BoundingMin X="-4.114635" Y="-0.500000" Z="-0.222232" />
+        <BoundingMax X="4.119142" Y="0.258330" Z="0.222198" />
+        <BoundingCenter X="0.002254" Y="-0.120835" Z="-0.000017" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Corner</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_corner.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1195763936</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.566731</BBRadius>
+        <BBHScale>1.002177</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.255000</Height>
+        <BoundingMin X="-2.143029" Y="-0.400000" Z="-2.140897" />
+        <BoundingMax X="3.001610" Y="0.110000" Z="2.992564" />
+        <BoundingCenter X="0.429290" Y="-0.145000" Z="0.425834" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Narrow_2m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_2m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1581993236</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.157235</BBRadius>
+        <BBHScale>1.728257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.255000</Height>
+        <BoundingMin X="-2.000000" Y="-0.400000" Z="-1.110000" />
+        <BoundingMax X="2.000000" Y="0.110000" Z="1.204471" />
+        <BoundingCenter X="0.000000" Y="-0.145000" Z="0.047235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Narrow_4m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_4m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1582124434</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.157236</BBRadius>
+        <BBHScale>2.597928</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.255000</Height>
+        <BoundingMin X="-3.012828" Y="-0.400000" Z="-1.110000" />
+        <BoundingMax X="3.000000" Y="0.110000" Z="1.204471" />
+        <BoundingCenter X="-0.006414" Y="-0.145000" Z="0.047235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk4_Narrow_8m</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_8m.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1582386830</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.150235</BBRadius>
+        <BBHScale>4.346936</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.255000</Height>
+        <BoundingMin X="-5.000000" Y="-0.400000" Z="-1.096000" />
+        <BoundingMax X="5.000000" Y="0.110000" Z="1.204471" />
+        <BoundingCenter X="0.000000" Y="-0.145000" Z="0.054235" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk5_Narrow</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk5_narrow.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>693425861</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.287806</BBRadius>
+        <BBHScale>2.325661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.251939</Height>
+        <BoundingMin X="-3.011099" Y="-0.326862" Z="-0.527632" />
+        <BoundingMax X="2.978900" Y="0.177016" Z="2.047980" />
+        <BoundingCenter X="-0.016099" Y="-0.074923" Z="0.760174" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk5_Narrow_Corner</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk5_narrow_corner.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-629059441</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.762371</BBRadius>
+        <BBHScale>1.009661</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.234819</Height>
+        <BoundingMin X="-2.076185" Y="-0.308277" Z="-0.509624" />
+        <BoundingMax X="1.482608" Y="0.161362" Z="3.015117" />
+        <BoundingCenter X="-0.296789" Y="-0.073457" Z="1.252746" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk5_Wide</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk5_wide.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>666663101</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.027616</BBRadius>
+        <BBHScale>1.477104</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.245248</Height>
+        <BoundingMin X="-3.011099" Y="-0.313481" Z="-2.007021" />
+        <BoundingMax X="2.978900" Y="0.177016" Z="2.048210" />
+        <BoundingCenter X="-0.016099" Y="-0.068233" Z="0.020595" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk5_Wide_Corner</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk5_wide_corner.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-95969129</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Sidewalk_Stairs</Name>
+        <File>dz\structures_bliss\roads\sidewalks\sidewalk_stairs.p3d</File>
+        <Date>06/21/22 20:51:11</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1725376759</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.924150</BBRadius>
+        <BBHScale>0.192409</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.617790</Height>
+        <BoundingMin X="-0.752716" Y="-1.115464" Z="-3.864554" />
+        <BoundingMax X="0.757368" Y="4.120116" Z="3.983746" />
+        <BoundingCenter X="0.002326" Y="1.502326" Z="0.059596" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sinkhole_sila</Name>
+        <File>dz\structures_bliss\roads\sinkhole\sinkhole_sila.p3d</File>
+        <Date>06/21/22 20:51:12</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1451717143</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.005075</BBRadius>
+        <BBHScale>0.999692</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.774702</Height>
+        <BoundingMin X="-16.000164" Y="-7.418975" Z="-17.010151" />
+        <BoundingMax X="16.000126" Y="0.130428" Z="15.000000" />
+        <BoundingCenter X="-0.000019" Y="-3.644273" Z="-1.005075" />
+        <Placement></Placement>
+    </Template>
+</Library>

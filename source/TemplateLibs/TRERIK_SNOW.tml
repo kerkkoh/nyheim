@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="TRERIK_SNOW" shape="rectangle" default_fill="-8355648" default_outline="-1" tex="0">
+    <Template>
+        <Name>snow_pile1</Name>
+        <File>trerik4\snow\snow_pile1.p3d</File>
+        <Date>03/03/20 14:06:41</Date>
+        <Archive></Archive>
+        <Fill>-8355648</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-563429597</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.567298</BBRadius>
+        <BBHScale>1.009916</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.325130</Height>
+        <BoundingMin X="-4.463046" Y="-0.551208" Z="-4.889318" />
+        <BoundingMax X="4.762132" Y="2.099053" Z="4.245278" />
+        <BoundingCenter X="0.149543" Y="0.773922" Z="-0.322020" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>snow_pile2</Name>
+        <File>trerik4\snow\snow_pile2.p3d</File>
+        <Date>03/03/20 17:37:43</Date>
+        <Archive></Archive>
+        <Fill>-8355648</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-563429596</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.885393</BBRadius>
+        <BBHScale>1.050833</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.852934</Height>
+        <BoundingMin X="-6.062620" Y="-1.065952" Z="-5.418581" />
+        <BoundingMax X="6.306517" Y="2.639917" Z="6.352205" />
+        <BoundingCenter X="0.121948" Y="0.786982" Z="0.466812" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>snow_pile3</Name>
+        <File>trerik4\snow\snow_pile3.p3d</File>
+        <Date>03/03/20 17:38:06</Date>
+        <Archive></Archive>
+        <Fill>-8355648</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-563429595</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.901709</BBRadius>
+        <BBHScale>1.002938</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.658065</Height>
+        <BoundingMin X="-6.202121" Y="-0.561266" Z="-5.863368" />
+        <BoundingMax X="5.635974" Y="2.754865" Z="5.940049" />
+        <BoundingCenter X="-0.283073" Y="1.096800" Z="0.038341" />
+        <Placement></Placement>
+    </Template>
+</Library>

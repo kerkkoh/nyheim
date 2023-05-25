@@ -5,6 +5,8 @@ source/objects
 source/shapefiles
 source/*.v4d.bak*
 source/trerik4.Cache/*.cache
+source/trerik4-overrides
+source/trerik4-winter
 *_autosave_0.spp
 *_autosave_1.spp
 *.blend1
@@ -18,3 +20,4 @@ source/ce/territoryTypes
 *.code-workspace
 source/TerrainProcessor/*.txt
 source/TerrainProcessor/*.lbt
+source/trerik-4-overrides/*

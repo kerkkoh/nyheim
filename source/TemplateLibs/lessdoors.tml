@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="lessdoors" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>door1</Name>
+        <File>trerik4\lessdoors\door1.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-337349533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.803188</BBRadius>
+        <BBHScale>0.328437</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250000</Height>
+        <BoundingMin X="-0.445584" Y="-0.000777" Z="-0.748613" />
+        <BoundingMax X="0.082009" Y="2.499223" Z="0.857762" />
+        <BoundingCenter X="-0.181788" Y="1.249223" Z="0.054575" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>door2</Name>
+        <File>trerik4\lessdoors\door2.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-337349532</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.451288</BBRadius>
+        <BBHScale>0.084294</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.000000</Height>
+        <BoundingMin X="-0.038116" Y="-0.003004" Z="-0.448304" />
+        <BoundingMax X="0.037966" Y="1.996996" Z="0.454273" />
+        <BoundingCenter X="-0.000075" Y="0.996996" Z="0.002985" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>door1_open</Name>
+        <File>trerik4\lessdoors\door1_open.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1190277818</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.803188</BBRadius>
+        <BBHScale>0.887272</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.250000</Height>
+        <BoundingMin X="-1.343283" Y="-0.000777" Z="-0.748613" />
+        <BoundingMax X="0.082009" Y="2.499223" Z="0.857762" />
+        <BoundingCenter X="-0.630637" Y="1.249223" Z="0.054575" />
+        <Placement></Placement>
+    </Template>
+</Library>

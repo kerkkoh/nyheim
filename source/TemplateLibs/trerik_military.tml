@@ -1,0 +1,894 @@
+<?xml version="1.0" ?>
+<Library name="trerik_military" shape="rectangle" default_fill="-2674383" default_outline="-1" tex="0">
+    <Template>
+        <Name>missile_launcher</Name>
+        <File>trerik4\military\missile_launcher\missile_launcher.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>763407673</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.118500</BBRadius>
+        <BBHScale>2.204464</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.048545</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.535750</Height>
+        <BoundingMin X="-11.500419" Y="-0.047001" Z="-5.156367" />
+        <BoundingMax X="11.163772" Y="11.024500" Z="5.156368" />
+        <BoundingCenter X="-0.168324" Y="5.488750" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>camonet_winter</Name>
+        <File>trerik4\military\improvised\camonet_winter.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>344435815</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.243366</BBRadius>
+        <BBHScale>0.945472</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.014465</Height>
+        <BoundingMin X="-7.740415" Y="-0.304493" Z="-7.585073" />
+        <BoundingMax X="5.956386" Y="5.724437" Z="6.901659" />
+        <BoundingCenter X="-0.892015" Y="2.709972" Z="-0.341707" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>camonet_winter_inv</Name>
+        <File>trerik4\military\improvised\camonet_winter_inv.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-912272455</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.243366</BBRadius>
+        <BBHScale>0.945472</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.014465</Height>
+        <BoundingMin X="-7.740415" Y="-0.304493" Z="-7.585073" />
+        <BoundingMax X="5.956386" Y="5.724437" Z="6.901659" />
+        <BoundingCenter X="-0.892015" Y="2.709972" Z="-0.341707" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_truck_grey</Name>
+        <File>trerik4\military\missile_launcher\military_truck_grey.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-821921295</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.573027</BBRadius>
+        <BBHScale>2.733073</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.023722</ZShift>
+        <Height>1.670171</Height>
+        <BoundingMin X="-4.750786" Y="-0.078039" Z="-1.573028" />
+        <BoundingMax X="3.847611" Y="3.309747" Z="1.573027" />
+        <BoundingCenter X="-0.451587" Y="1.615854" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_truck_red</Name>
+        <File>trerik4\military\missile_launcher\military_truck_red.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>986533855</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.573027</BBRadius>
+        <BBHScale>2.733073</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.023722</ZShift>
+        <Height>1.670171</Height>
+        <BoundingMin X="-4.750786" Y="-0.078039" Z="-1.573028" />
+        <BoundingMax X="3.847611" Y="3.309747" Z="1.573027" />
+        <BoundingCenter X="-0.451587" Y="1.615854" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>leopard</Name>
+        <File>trerik4\military\leopard\leopard.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>407731609</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.864325</BBRadius>
+        <BBHScale>0.349591</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000352</YShift>
+        <ZShift>0.005965</ZShift>
+        <Height>1.590474</Height>
+        <BoundingMin X="-1.700526" Y="-0.011929" Z="-4.473290" />
+        <BoundingMax X="1.700526" Y="3.180949" Z="5.265689" />
+        <BoundingCenter X="0.000000" Y="1.584510" Z="0.396199" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_truck_grey_covered</Name>
+        <File>trerik4\military\missile_launcher\military_truck_grey_covered.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>119659144</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.613799</BBRadius>
+        <BBHScale>2.583295</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.023003</ZShift>
+        <Height>2.044369</Height>
+        <BoundingMin X="-4.266870" Y="-0.063575" Z="-1.561012" />
+        <BoundingMax X="4.070970" Y="4.071168" Z="1.666586" />
+        <BoundingCenter X="-0.097950" Y="2.003797" Z="0.052787" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_truck_covered</Name>
+        <File>trerik4\military\missile_launcher\military_truck_covered.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>362016228</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.613799</BBRadius>
+        <BBHScale>2.583295</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.023003</ZShift>
+        <Height>2.044369</Height>
+        <BoundingMin X="-4.266870" Y="-0.063575" Z="-1.561012" />
+        <BoundingMax X="4.070970" Y="4.071168" Z="1.666586" />
+        <BoundingCenter X="-0.097950" Y="2.003797" Z="0.052787" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_truck_camonet</Name>
+        <File>trerik4\military\missile_launcher\military_truck_camonet.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1260596971</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.464449</BBRadius>
+        <BBHScale>0.798950</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.677977</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.037363</ZShift>
+        <Height>2.156661</Height>
+        <BoundingMin X="-7.758785" Y="-0.339877" Z="-6.709060" />
+        <BoundingMax X="3.955971" Y="4.113637" Z="6.219839" />
+        <BoundingCenter X="-1.901407" Y="1.886880" Z="-0.244611" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>biological_decal</Name>
+        <File>trerik4\military\decals\biological_decal.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>314484687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.000000</BBRadius>
+        <BBHScale>7320748.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.960000</Height>
+        <BoundingMin X="-0.960000" Y="-0.960000" Z="-0.000000" />
+        <BoundingMax X="0.960000" Y="0.960000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>chemical_decal</Name>
+        <File>trerik4\military\decals\chemical_decal.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>205754976</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.000000</BBRadius>
+        <BBHScale>7320748.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.960000</Height>
+        <BoundingMin X="-0.960000" Y="-0.960000" Z="-0.000000" />
+        <BoundingMax X="0.960000" Y="0.960000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>nuclear_decal</Name>
+        <File>trerik4\military\decals\nuclear_decal.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>518069684</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.000000</BBRadius>
+        <BBHScale>7320748.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.960000</Height>
+        <BoundingMin X="-0.960000" Y="-0.960000" Z="-0.000000" />
+        <BoundingMax X="0.960000" Y="0.960000" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cbrn_research_decal</Name>
+        <File>trerik4\military\decals\cbrn_research_decal.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1306383507</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.000000</BBRadius>
+        <BBHScale>7320748.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.739200</Height>
+        <BoundingMin X="-0.739200" Y="-0.739200" Z="-0.000000" />
+        <BoundingMax X="0.739200" Y="0.739200" Z="0.000000" />
+        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>missile</Name>
+        <File>trerik4\military\missile_launcher\missile.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-430286362</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.991574</BBRadius>
+        <BBHScale>0.227040</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000358</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.225127</Height>
+        <BoundingMin X="-0.225127" Y="-0.225127" Z="-1.990355" />
+        <BoundingMax X="0.225127" Y="0.225127" Z="-0.005736" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="-0.998046" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>missile2</Name>
+        <File>trerik4\military\missile_launcher\missile2.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>170008524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.544570</BBRadius>
+        <BBHScale>3.269363</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000830</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.544573</Height>
+        <BoundingMin X="-1.794457" Y="-0.526493" Z="-0.543927" />
+        <BoundingMax X="1.767995" Y="0.562652" Z="0.545212" />
+        <BoundingCenter X="-0.013231" Y="0.018080" Z="0.000642" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_military_area</Name>
+        <File>trerik4\military\signs\sign_military_area.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>487844573</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031314</BBRadius>
+        <BBHScale>18.020784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.517258</Height>
+        <BoundingMin X="-0.565816" Y="-0.399542" Z="-0.006658" />
+        <BoundingMax X="0.562789" Y="2.634974" Z="0.055970" />
+        <BoundingCenter X="-0.001514" Y="1.117716" Z="0.024656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_military_research_area</Name>
+        <File>trerik4\military\signs\sign_military_research_area.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1122876639</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031314</BBRadius>
+        <BBHScale>18.020784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.517258</Height>
+        <BoundingMin X="-0.565816" Y="-0.399542" Z="-0.006658" />
+        <BoundingMax X="0.562789" Y="2.634974" Z="0.055970" />
+        <BoundingCenter X="-0.001514" Y="1.117716" Z="0.024656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_military_training_area</Name>
+        <File>trerik4\military\signs\sign_military_training_area.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1451177118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031314</BBRadius>
+        <BBHScale>18.020784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.517258</Height>
+        <BoundingMin X="-0.565816" Y="-0.399542" Z="-0.006658" />
+        <BoundingMax X="0.562789" Y="2.634974" Z="0.055970" />
+        <BoundingCenter X="-0.001514" Y="1.117716" Z="0.024656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sub</Name>
+        <File>trerik4\military\sub\sub.p3d</File>
+        <Date>09/23/22 11:17:10</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>957748256</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.150824</BBRadius>
+        <BBHScale>11.481330</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.004230</XShift>
+        <YShift>-0.000184</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>9.324804</Height>
+        <BoundingMin X="-47.548443" Y="-4.305826" Z="-4.525100" />
+        <BoundingMax X="47.776924" Y="14.343781" Z="4.525099" />
+        <BoundingCenter X="0.114241" Y="5.018978" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>sign_military_training_area_leaving</Name>
+        <File>trerik4\military\signs\sign_military_training_area_leaving.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-485742505</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.031314</BBRadius>
+        <BBHScale>18.020784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.517258</Height>
+        <BoundingMin X="-0.565816" Y="-0.399542" Z="-0.006658" />
+        <BoundingMax X="0.562789" Y="2.634974" Z="0.055970" />
+        <BoundingCenter X="-0.001514" Y="1.117716" Z="0.024656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>truck_camonet</Name>
+        <File>trerik4\military\improvised\truck_camonet.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1136571869</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>engine_raptor</Name>
+        <File>trerik4\military\missile_launcher\engine_raptor.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>225633299</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.314207</BBRadius>
+        <BBHScale>1.248245</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.028451</XShift>
+        <YShift>0.073979</YShift>
+        <ZShift>-0.000329</ZShift>
+        <Height>3.266268</Height>
+        <BoundingMin X="-1.652169" Y="0.011341" Z="-1.501680" />
+        <BoundingMax X="1.689692" Y="6.544767" Z="1.282123" />
+        <BoundingCenter X="0.018762" Y="3.278054" Z="-0.109778" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>missile3</Name>
+        <File>trerik4\military\missile_launcher\missile3.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>170008525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.934299</BBRadius>
+        <BBHScale>1.000093</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>3.553581</Height>
+        <BoundingMin X="-0.933951" Y="-0.005120" Z="-0.932838" />
+        <BoundingMax X="0.934821" Y="7.102041" Z="0.935760" />
+        <BoundingCenter X="0.000435" Y="3.548460" Z="0.001461" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>nuclear_missile</Name>
+        <File>trerik4\military\missile_launcher\nuclear_missile.p3d</File>
+        <Date>09/23/22 11:17:01</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1037306579</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.967659</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>-0.084881</ZShift>
+        <Height>11.289536</Height>
+        <BoundingMin X="-1.971096" Y="-0.084541" Z="-1.971096" />
+        <BoundingMax X="1.971095" Y="22.666517" Z="1.971096" />
+        <BoundingCenter X="-0.000000" Y="11.290988" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>truck_grey_tarp1</Name>
+        <File>trerik4\military\trucks\truck_grey_tarp1.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-390263450</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>axis</Name>
+        <File>trerik4\military\test\axis.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-594184415</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>classified_file</Name>
+        <File>trerik4\military\intel\classified_file.p3d</File>
+        <Date>09/23/22 11:17:00</Date>
+        <Archive></Archive>
+        <Fill>-2674383</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-623964152</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.185659</BBRadius>
+        <BBHScale>1.292239</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.001862</Height>
+        <BoundingMin X="-0.239916" Y="0.001286" Z="-0.185659" />
+        <BoundingMax X="0.239916" Y="0.005011" Z="0.185659" />
+        <BoundingCenter X="0.000000" Y="0.003148" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

@@ -1,0 +1,2676 @@
+<?xml version="1.0" ?>
+<Library name="bliss_walls" shape="rectangle" default_fill="-8372160" default_outline="-1" tex="0">
+    <Template>
+        <Name>Wall_Barricade1_10</Name>
+        <File>dz\structures_bliss\walls\wall_barricade1_10.p3d</File>
+        <Date>06/21/22 21:07:32</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>968292641</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.949960</BBRadius>
+        <BBHScale>2.705617</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.216664</Height>
+        <BoundingMin X="-5.326280" Y="-0.162288" Z="-1.949960" />
+        <BoundingMax X="5.225410" Y="2.271040" Z="1.949960" />
+        <BoundingCenter X="-0.050435" Y="1.054376" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Barricade1_4</Name>
+        <File>dz\structures_bliss\walls\wall_barricade1_4.p3d</File>
+        <Date>06/21/22 21:07:32</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>851884754</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.514370</BBRadius>
+        <BBHScale>1.326977</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.822511</Height>
+        <BoundingMin X="-2.007450" Y="-0.075823" Z="-1.514370" />
+        <BoundingMax X="2.011620" Y="1.569200" Z="1.514370" />
+        <BoundingCenter X="0.002085" Y="0.746689" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Canal_10</Name>
+        <File>dz\structures_bliss\walls\wall_canal_10.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-793565416</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_CncBarrier_4Block</Name>
+        <File>dz\structures_bliss\walls\wall_cncbarrier_4block.p3d</File>
+        <Date>06/21/22 21:07:32</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1439705852</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.916544</BBRadius>
+        <BBHScale>4.142519</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.984613</Height>
+        <BoundingMin X="-3.772706" Y="-0.138412" Z="-0.934241" />
+        <BoundingMax X="3.820895" Y="1.830815" Z="0.898846" />
+        <BoundingCenter X="0.024095" Y="0.846202" Z="-0.017697" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_CncBarrier_Block</Name>
+        <File>dz\structures_bliss\walls\wall_cncbarrier_block.p3d</File>
+        <Date>06/21/22 21:07:32</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>713953826</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.916544</BBRadius>
+        <BBHScale>1.001043</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.984613</Height>
+        <BoundingMin X="-0.917500" Y="-0.138412" Z="-0.934241" />
+        <BoundingMax X="0.917500" Y="1.830815" Z="0.898846" />
+        <BoundingCenter X="0.000000" Y="0.846202" Z="-0.017697" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen3_4</Name>
+        <File>dz\structures_bliss\walls\wall_fen3_4.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1474103950</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>20.153708</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.281484</Height>
+        <BoundingMin X="-4.003441" Y="-0.542967" Z="-0.100000" />
+        <BoundingMax X="0.027300" Y="2.020000" Z="0.100000" />
+        <BoundingCenter X="-1.988071" Y="0.738516" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen3_8</Name>
+        <File>dz\structures_bliss\walls\wall_fen3_8.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1474103954</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.100000</BBRadius>
+        <BBHScale>40.136497</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.266500</Height>
+        <BoundingMin X="-8.000000" Y="-0.513000" Z="-0.100000" />
+        <BoundingMax X="0.027300" Y="2.020000" Z="0.100000" />
+        <BoundingCenter X="-3.986350" Y="0.753500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen3_D</Name>
+        <File>dz\structures_bliss\walls\wall_fen3_d.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1474103966</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.218391</BBRadius>
+        <BBHScale>18.396887</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.268660</Height>
+        <BoundingMin X="-8.000000" Y="-0.517321" Z="-0.100000" />
+        <BoundingMax X="0.035428" Y="2.020000" Z="0.336782" />
+        <BoundingCenter X="-3.982286" Y="0.751340" Z="0.118391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen3_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fen3_pole.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2124802238</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.027675</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.263449</Height>
+        <BoundingMin X="-0.027875" Y="-0.513200" Z="-0.027675" />
+        <BoundingMax X="0.027475" Y="2.013698" Z="0.027675" />
+        <BoundingCenter X="-0.000200" Y="0.750249" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_4</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_4.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1482365455</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.104530</BBRadius>
+        <BBHScale>19.318609</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.700875</Height>
+        <BoundingMin X="-2.012790" Y="-1.652200" Z="-0.105113" />
+        <BoundingMax X="2.025959" Y="1.749550" Z="0.103947" />
+        <BoundingCenter X="0.006584" Y="0.048675" Z="-0.000583" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_4_nolc</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_4_nolc.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1905844232</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.104530</BBRadius>
+        <BBHScale>19.227972</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.700875</Height>
+        <BoundingMin X="-2.012790" Y="-1.652200" Z="-0.105113" />
+        <BoundingMax X="2.007010" Y="1.749550" Z="0.103947" />
+        <BoundingCenter X="-0.002890" Y="0.048675" Z="-0.000583" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_8</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_8.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1482365459</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.113033</BBRadius>
+        <BBHScale>35.543743</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.700870</Height>
+        <BoundingMin X="-3.987876" Y="-1.652190" Z="-0.105113" />
+        <BoundingMax X="4.047320" Y="1.749550" Z="0.120952" />
+        <BoundingCenter X="0.029722" Y="0.048680" Z="0.007920" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_D</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_d.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1482365471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.110845</BBRadius>
+        <BBHScale>18.229776</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.710725</Height>
+        <BoundingMin X="-2.015400" Y="-1.671900" Z="-0.111562" />
+        <BoundingMax X="2.025959" Y="1.749550" Z="0.110128" />
+        <BoundingCenter X="0.005279" Y="0.038825" Z="-0.000717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_D_nolc</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_d_nolc.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-731974664</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.110845</BBRadius>
+        <BBHScale>18.176283</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.710725</Height>
+        <BoundingMin X="-2.015400" Y="-1.671900" Z="-0.111562" />
+        <BoundingMax X="2.014100" Y="1.749550" Z="0.110128" />
+        <BoundingCenter X="-0.000650" Y="0.038825" Z="-0.000717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen4_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fen4_pole.p3d</File>
+        <Date>06/21/22 21:07:33</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1798157827</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.108698</BBRadius>
+        <BBHScale>1.440222</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.704415</Height>
+        <BoundingMin X="-0.157045" Y="-1.669200" Z="-0.113006" />
+        <BoundingMax X="0.156052" Y="1.739630" Z="0.104389" />
+        <BoundingCenter X="-0.000497" Y="0.035215" Z="-0.004308" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen5_10</Name>
+        <File>dz\structures_bliss\walls\wall_fen5_10.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>117324259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.639336</BBRadius>
+        <BBHScale>7.964789</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.424246</Height>
+        <BoundingMin X="-0.166000" Y="-0.168007" Z="-0.278672" />
+        <BoundingMax X="10.018353" Y="2.680485" Z="1.000000" />
+        <BoundingCenter X="4.926177" Y="1.256239" Z="0.360664" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen5_10_D</Name>
+        <File>dz\structures_bliss\walls\wall_fen5_10_d.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-375877624</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.386053</BBRadius>
+        <BBHScale>3.730944</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.429053</Height>
+        <BoundingMin X="-0.173478" Y="-0.173088" Z="-0.733768" />
+        <BoundingMax X="10.169094" Y="2.685018" Z="2.038337" />
+        <BoundingCenter X="4.997808" Y="1.255965" Z="0.652284" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen5_5</Name>
+        <File>dz\structures_bliss\walls\wall_fen5_5.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1490626961</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.638027</BBRadius>
+        <BBHScale>4.096305</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.424036</Height>
+        <BoundingMin X="-0.207750" Y="-0.174087" Z="-0.276053" />
+        <BoundingMax X="5.019353" Y="2.673985" Z="1.000000" />
+        <BoundingCenter X="2.405802" Y="1.249949" Z="0.361973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen5_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fen5_pole.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1426150596</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.221417</BBRadius>
+        <BBHScale>0.749718</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.274018</Height>
+        <BoundingMin X="-0.166000" Y="-0.188696" Z="-0.221667" />
+        <BoundingMax X="0.166000" Y="2.359341" Z="0.221166" />
+        <BoundingCenter X="0.000000" Y="1.085323" Z="-0.000251" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen6_8</Name>
+        <File>dz\structures_bliss\walls\wall_fen6_8.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1498888469</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.250939</BBRadius>
+        <BBHScale>16.608898</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.124713</Height>
+        <BoundingMin X="-4.021340" Y="-0.599426" Z="-0.318034" />
+        <BoundingMax X="4.314284" Y="1.650000" Z="0.183843" />
+        <BoundingCenter X="0.146472" Y="0.525287" Z="-0.067096" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen6_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fen6_pole.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1054143365</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.169865</BBRadius>
+        <BBHScale>1.180327</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.021990</Height>
+        <BoundingMin X="-0.223284" Y="-0.398979" Z="-0.200338" />
+        <BoundingMax X="0.177708" Y="1.645000" Z="0.139392" />
+        <BoundingCenter X="-0.022788" Y="0.623010" Z="-0.030473" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen7_4</Name>
+        <File>dz\structures_bliss\walls\wall_fen7_4.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1507149970</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.548937</BBRadius>
+        <BBHScale>3.760494</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.750000</Height>
+        <BoundingMin X="-2.058172" Y="-0.480000" Z="-0.097875" />
+        <BoundingMax X="2.070379" Y="1.020000" Z="1.000000" />
+        <BoundingCenter X="0.006104" Y="0.270000" Z="0.451063" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Fen7_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fen7_pole.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-682136134</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.061000</BBRadius>
+        <BBHScale>1.179692</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.729060</Height>
+        <BoundingMin X="-0.070961" Y="-0.485060" Z="-0.062000" />
+        <BoundingMax X="0.072961" Y="0.973060" Z="0.060000" />
+        <BoundingCenter X="0.001000" Y="0.244000" Z="-0.001000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenForest_5</Name>
+        <File>dz\structures_bliss\walls\wall_fenforest_5.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>752577709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.507358</BBRadius>
+        <BBHScale>4.960568</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.284182</Height>
+        <BoundingMin X="-2.533568" Y="-0.726665" Z="-0.187415" />
+        <BoundingMax X="2.500000" Y="1.841700" Z="0.827300" />
+        <BoundingCenter X="-0.016784" Y="0.557518" Z="0.319942" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenForest_5_D</Name>
+        <File>dz\structures_bliss\walls\wall_fenforest_5_d.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-210436654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.495551</BBRadius>
+        <BBHScale>5.085686</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.288417</Height>
+        <BoundingMin X="-2.539120" Y="-0.726665" Z="-0.158105" />
+        <BoundingMax X="2.501315" Y="1.850169" Z="0.832998" />
+        <BoundingCenter X="-0.018903" Y="0.561752" Z="0.337446" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenForest_Gate</Name>
+        <File>dz\structures_bliss\walls\wall_fenforest_gate.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>776163155</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.500000</BBRadius>
+        <BBHScale>0.504013</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.401033</Height>
+        <BoundingMin X="-0.755905" Y="-0.628938" Z="-1.466516" />
+        <BoundingMax X="0.756134" Y="2.173127" Z="1.533484" />
+        <BoundingCenter X="0.000114" Y="0.772094" Z="0.033484" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenForest_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_fenforest_pole.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-673350368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.429741</BBRadius>
+        <BBHScale>0.132208</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.260745</Height>
+        <BoundingMin X="-0.052379" Y="-0.701965" Z="-0.059469" />
+        <BoundingMax X="0.061251" Y="1.819524" Z="0.800013" />
+        <BoundingCenter X="0.004436" Y="0.558779" Z="0.370272" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenStadium</Name>
+        <File>dz\structures_bliss\walls\wall_fenstadium.p3d</File>
+        <Date>06/21/22 21:07:34</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>739327427</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.163216</BBRadius>
+        <BBHScale>15.697474</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.405918</Height>
+        <BoundingMin X="-2.548683" Y="-1.197000" Z="-0.181817" />
+        <BoundingMax X="2.575488" Y="3.614836" Z="0.144616" />
+        <BoundingCenter X="0.013402" Y="1.208918" Z="-0.018600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_FenVineyard</Name>
+        <File>dz\structures_bliss\walls\wall_fenvineyard.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>237252446</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.152469</BBRadius>
+        <BBHScale>27.297237</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.031131</Height>
+        <BoundingMin X="-4.159291" Y="-0.426539" Z="-0.152469" />
+        <BoundingMax X="4.164667" Y="1.635723" Z="0.152469" />
+        <BoundingCenter X="0.002688" Y="0.604592" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_Fen3</Name>
+        <File>dz\structures_bliss\walls\wall_gate_fen3.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1224127203</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.080000</BBRadius>
+        <BBHScale>38.487495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.572500</Height>
+        <BoundingMin X="-8.079000" Y="-0.535000" Z="-0.080000" />
+        <BoundingMax X="-1.921000" Y="2.610000" Z="0.080000" />
+        <BoundingCenter X="-5.000000" Y="1.037500" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_Fen4</Name>
+        <File>dz\structures_bliss\walls\wall_gate_fen4.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1224127204</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.000000</BBRadius>
+        <BBHScale>1.024723</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.309740</Height>
+        <BoundingMin X="-2.049510" Y="-0.701359" Z="-2.000000" />
+        <BoundingMax X="2.049380" Y="1.918120" Z="2.000000" />
+        <BoundingCenter X="-0.000065" Y="0.608381" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_Ind3</Name>
+        <File>dz\structures_bliss\walls\wall_gate_ind3.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-655380941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.314909</BBRadius>
+        <BBHScale>16.600357</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.820544</Height>
+        <BoundingMin X="-10.445441" Y="-0.878932" Z="-0.656158" />
+        <BoundingMax X="0.009770" Y="2.762156" Z="-0.026340" />
+        <BoundingCenter X="-5.217835" Y="0.941612" Z="-0.341249" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_IndCnc4</Name>
+        <File>dz\structures_bliss\walls\wall_gate_indcnc4.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>269039100</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.470780</BBRadius>
+        <BBHScale>3.607469</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.507435</Height>
+        <BoundingMin X="-5.604046" Y="-0.612490" Z="-1.502630" />
+        <BoundingMax X="5.007540" Y="2.402380" Z="1.438930" />
+        <BoundingCenter X="-0.298253" Y="0.894945" Z="-0.031850" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_IndCnc4_Low</Name>
+        <File>dz\structures_bliss\walls\wall_gate_indcnc4_low.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1656428815</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.470780</BBRadius>
+        <BBHScale>3.597062</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.059405</Height>
+        <BoundingMin X="-5.573432" Y="-0.612490" Z="-1.504755" />
+        <BoundingMax X="5.007540" Y="1.506320" Z="1.436804" />
+        <BoundingCenter X="-0.282946" Y="0.446915" Z="-0.033976" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_Tin6_1</Name>
+        <File>dz\structures_bliss\walls\wall_gate_tin6_1.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1937931026</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.470780</BBRadius>
+        <BBHScale>1.165469</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.198353</Height>
+        <BoundingMin X="-1.846066" Y="-0.598956" Z="-1.464064" />
+        <BoundingMax X="1.582230" Y="1.797750" Z="1.477496" />
+        <BoundingCenter X="-0.131918" Y="0.599397" Z="0.006716" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Gate_Tin6_2</Name>
+        <File>dz\structures_bliss\walls\wall_gate_tin6_2.p3d</File>
+        <Date>06/21/22 21:07:35</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1937931025</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.000000</BBRadius>
+        <BBHScale>1.024715</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.005519</Height>
+        <BoundingMin X="-2.047870" Y="-0.209237" Z="-2.000000" />
+        <BoundingMax X="2.050990" Y="1.801800" Z="2.000000" />
+        <BoundingCenter X="0.001560" Y="0.796282" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_1_4</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_1_4.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1241946892</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161091</BBRadius>
+        <BBHScale>18.712284</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.802633</Height>
+        <BoundingMin X="-2.000000" Y="-1.000092" Z="-0.161091" />
+        <BoundingMax X="4.028775" Y="2.605173" Z="0.161091" />
+        <BoundingCenter X="1.014387" Y="0.802541" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_1_D</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_1_d.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1241946908</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.583568</BBRadius>
+        <BBHScale>5.215149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.828152</Height>
+        <BoundingMin X="-2.027612" Y="-1.051130" Z="-0.161091" />
+        <BoundingMax X="4.059173" Y="2.605173" Z="1.006044" />
+        <BoundingCenter X="1.015780" Y="0.777022" Z="0.422476" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_2_4</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_2_4.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1250208397</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161091</BBRadius>
+        <BBHScale>18.712284</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.802633</Height>
+        <BoundingMin X="-2.000000" Y="-1.000092" Z="-0.161091" />
+        <BoundingMax X="4.028775" Y="2.605173" Z="0.161091" />
+        <BoundingCenter X="1.014387" Y="0.802541" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_2_D</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_2_d.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1250208413</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.583568</BBRadius>
+        <BBHScale>5.215149</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.828152</Height>
+        <BoundingMin X="-2.027612" Y="-1.051130" Z="-0.161091" />
+        <BoundingMax X="4.059173" Y="2.605173" Z="1.006044" />
+        <BoundingCenter X="1.015780" Y="0.777022" Z="0.422476" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_End</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_end.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1408161025</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.760082</BBRadius>
+        <BBHScale>1.699037</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.759130</Height>
+        <BoundingMin X="-2.052140" Y="-1.050030" Z="-0.881654" />
+        <BoundingMax X="0.530676" Y="2.468230" Z="0.638510" />
+        <BoundingCenter X="-0.760732" Y="0.709100" Z="-0.121572" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc3_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc3_pole.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2098754898</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.126042</BBRadius>
+        <BBHScale>0.986223</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.725061</Height>
+        <BoundingMin X="-0.121305" Y="-1.000092" Z="-0.127084" />
+        <BoundingMax X="0.127305" Y="2.450029" Z="0.125000" />
+        <BoundingCenter X="0.003000" Y="0.724969" Z="-0.001042" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_4</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_4.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>174825083</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200000</BBRadius>
+        <BBHScale>10.138747</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.500000</Height>
+        <BoundingMin X="-2.029540" Y="-0.600000" Z="-0.200000" />
+        <BoundingMax X="2.025959" Y="2.400000" Z="0.200000" />
+        <BoundingCenter X="-0.001791" Y="0.900000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_8</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_8.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>174825087</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200000</BBRadius>
+        <BBHScale>20.108799</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.501815</Height>
+        <BoundingMin X="-4.021760" Y="-0.600000" Z="-0.200000" />
+        <BoundingMax X="4.021760" Y="2.403630" Z="0.200000" />
+        <BoundingCenter X="0.000000" Y="0.901815" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_D</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_d.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>174825099</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.207755</BBRadius>
+        <BBHScale>7.898703</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.503790</Height>
+        <BoundingMin X="-1.639390" Y="-0.607580" Z="-0.207969" />
+        <BoundingMax X="1.642600" Y="2.400000" Z="0.207541" />
+        <BoundingCenter X="0.001605" Y="0.896210" Z="-0.000214" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_Low_4</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_low_4.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>171244272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200000</BBRadius>
+        <BBHScale>10.129023</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.050000</Height>
+        <BoundingMin X="-2.025650" Y="-0.600000" Z="-0.200000" />
+        <BoundingMax X="2.025959" Y="1.500000" Z="0.200000" />
+        <BoundingCenter X="0.000154" Y="0.450000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_Low_8</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_low_8.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>171244276</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.200000</BBRadius>
+        <BBHScale>20.108799</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.050000</Height>
+        <BoundingMin X="-4.021760" Y="-0.600000" Z="-0.200000" />
+        <BoundingMax X="4.021760" Y="1.500000" Z="0.200000" />
+        <BoundingCenter X="0.000000" Y="0.450000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_Low_D</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_low_d.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>171244288</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.207755</BBRadius>
+        <BBHScale>7.790426</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.050335</Height>
+        <BoundingMin X="-1.623930" Y="-0.600000" Z="-0.207969" />
+        <BoundingMax X="1.613070" Y="1.500670" Z="0.207541" />
+        <BoundingCenter X="-0.005430" Y="0.450335" Z="-0.000214" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_Low_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_low_pole.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1893589468</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.255736</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.134730</Height>
+        <BoundingMin X="-0.255736" Y="-0.600000" Z="-0.255736" />
+        <BoundingMax X="0.255736" Y="1.669460" Z="0.255736" />
+        <BoundingCenter X="0.000000" Y="0.534730" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndCnc4_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_indcnc4_pole.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1824205167</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.262750</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.580380</Height>
+        <BoundingMin X="-0.262750" Y="-0.600000" Z="-0.262750" />
+        <BoundingMax X="0.262750" Y="2.560760" Z="0.262750" />
+        <BoundingCenter X="0.000000" Y="0.980380" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_3</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_3.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1274323765</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.262282</BBRadius>
+        <BBHScale>5.789610</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.692165</Height>
+        <BoundingMin X="-1.529590" Y="-1.000000" Z="-0.260173" />
+        <BoundingMax X="1.507436" Y="2.384329" Z="0.264392" />
+        <BoundingCenter X="-0.011077" Y="0.692164" Z="0.002109" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_3_D</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_3_d.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-263491494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.469635</BBRadius>
+        <BBHScale>3.312806</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.692165</Height>
+        <BoundingMin X="-1.531050" Y="-1.000000" Z="-0.695729" />
+        <BoundingMax X="1.580570" Y="2.384329" Z="0.243541" />
+        <BoundingCenter X="0.024760" Y="0.692164" Z="-0.226094" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_3_Hole</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_3_hole.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2145257994</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.291895</BBRadius>
+        <BBHScale>5.206590</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.692165</Height>
+        <BoundingMin X="-1.529324" Y="-1.000000" Z="-0.260173" />
+        <BoundingMax X="1.510231" Y="2.384329" Z="0.323617" />
+        <BoundingCenter X="-0.009546" Y="0.692164" Z="0.031722" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_9</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_9.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1274323771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.202833</BBRadius>
+        <BBHScale>22.275839</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.692165</Height>
+        <BoundingMin X="-1.529120" Y="-1.000000" Z="-0.150427" />
+        <BoundingMax X="7.507422" Y="2.384329" Z="0.255239" />
+        <BoundingCenter X="2.989151" Y="0.692164" Z="0.052406" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_Corner</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_corner.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1023198157</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndFnc2_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_indfnc2_pole.p3d</File>
+        <Date>06/21/22 21:07:36</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-533115370</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161654</BBRadius>
+        <BBHScale>0.503832</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.692165</Height>
+        <BoundingMin X="-0.097214" Y="-1.000000" Z="-0.067485" />
+        <BoundingMax X="0.065679" Y="2.384329" Z="0.255824" />
+        <BoundingCenter X="-0.015768" Y="0.692164" Z="0.094170" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndVar3_5</Name>
+        <File>dz\structures_bliss\walls\wall_indvar3_5.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-165794100</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.282872</BBRadius>
+        <BBHScale>8.933415</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.648376</Height>
+        <BoundingMin X="-2.553749" Y="-1.001702" Z="-0.290238" />
+        <BoundingMax X="2.500271" Y="2.295050" Z="0.275505" />
+        <BoundingCenter X="-0.026739" Y="0.646674" Z="-0.007367" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndVar3_5_D</Name>
+        <File>dz\structures_bliss\walls\wall_indvar3_5_d.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-759521167</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.275505</BBRadius>
+        <BBHScale>6.840929</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.648376</Height>
+        <BoundingMin X="-2.525510" Y="-1.001702" Z="-0.275505" />
+        <BoundingMax X="1.243910" Y="2.295050" Z="0.275505" />
+        <BoundingCenter X="-0.640800" Y="0.646674" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_IndVar3_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_indvar3_pole.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1822392897</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.286120</BBRadius>
+        <BBHScale>0.962883</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.647751</Height>
+        <BoundingMin X="-0.275500" Y="-1.000452" Z="-0.296461" />
+        <BoundingMax X="0.275500" Y="2.295050" Z="0.275779" />
+        <BoundingCenter X="-0.000000" Y="0.647299" Z="-0.010341" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_MilCncBarrier</Name>
+        <File>dz\structures_bliss\walls\wall_milcncbarrier.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1408270374</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.243602</BBRadius>
+        <BBHScale>8.234573</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.402485</Height>
+        <BoundingMin X="-2.001743" Y="0.000000" Z="-0.243602" />
+        <BoundingMax X="2.010172" Y="0.804970" Z="0.243602" />
+        <BoundingCenter X="0.004215" Y="0.402485" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_MilCnc_4</Name>
+        <File>dz\structures_bliss\walls\wall_milcnc_4.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>501453522</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.547853</BBRadius>
+        <BBHScale>3.698119</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.371950</Height>
+        <BoundingMin X="-2.037054" Y="-0.672076" Z="-0.068506" />
+        <BoundingMax X="2.015000" Y="4.071825" Z="1.027201" />
+        <BoundingCenter X="-0.011027" Y="1.699874" Z="0.479348" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_MilCnc_Corner</Name>
+        <File>dz\structures_bliss\walls\wall_milcnc_corner.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1939189865</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.766158</BBRadius>
+        <BBHScale>1.003432</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.363724</Height>
+        <BoundingMin X="-0.013575" Y="-0.663448" Z="-0.008316" />
+        <BoundingMax X="1.524000" Y="4.064000" Z="1.524000" />
+        <BoundingCenter X="0.755213" Y="1.700276" Z="0.757842" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PipeFenceWall_8</Name>
+        <File>dz\structures_bliss\walls\wall_pipefencewall_8.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1106425681</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.357684</BBRadius>
+        <BBHScale>11.219236</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.243978</Height>
+        <BoundingMin X="-4.012936" Y="-1.500000" Z="-0.357598" />
+        <BoundingMax X="4.012943" Y="2.987956" Z="0.357770" />
+        <BoundingCenter X="0.000004" Y="0.743978" Z="0.000086" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PipeFence_4</Name>
+        <File>dz\structures_bliss\walls\wall_pipefence_4.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1608826499</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.062600</BBRadius>
+        <BBHScale>32.922760</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.705315</Height>
+        <BoundingMin X="-2.054380" Y="-0.400230" Z="-0.064869" />
+        <BoundingMax X="2.067560" Y="1.010400" Z="0.060331" />
+        <BoundingCenter X="0.006590" Y="0.305085" Z="-0.002269" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PipeFence_4_nolc</Name>
+        <File>dz\structures_bliss\walls\wall_pipefence_4_nolc.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1346876268</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.090248</BBRadius>
+        <BBHScale>23.047596</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.848500</Height>
+        <BoundingMin X="-2.080000" Y="-0.325000" Z="-0.091949" />
+        <BoundingMax X="2.080000" Y="1.372000" Z="0.088547" />
+        <BoundingCenter X="0.000000" Y="0.523500" Z="-0.001701" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PipeFence_8</Name>
+        <File>dz\structures_bliss\walls\wall_pipefence_8.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1608826503</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.069888</BBRadius>
+        <BBHScale>58.125259</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.704691</Height>
+        <BoundingMin X="-4.055861" Y="-0.406548" Z="-0.075413" />
+        <BoundingMax X="4.068600" Y="1.002834" Z="0.064362" />
+        <BoundingCenter X="0.006370" Y="0.298143" Z="-0.005526" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PoleWall_5_1</Name>
+        <File>dz\structures_bliss\walls\wall_polewall_5_1.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2133660257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.118470</BBRadius>
+        <BBHScale>22.051352</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.043836</Height>
+        <BoundingMin X="-5.123270" Y="-0.986472" Z="-0.099571" />
+        <BoundingMax X="0.101569" Y="1.101200" Z="0.137368" />
+        <BoundingCenter X="-2.510850" Y="0.057364" Z="0.018898" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PoleWall_5_2</Name>
+        <File>dz\structures_bliss\walls\wall_polewall_5_2.p3d</File>
+        <Date>06/21/22 21:07:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2133660256</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.189837</BBRadius>
+        <BBHScale>13.748880</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.043881</Height>
+        <BoundingMin X="-5.123270" Y="-0.986472" Z="-0.081864" />
+        <BoundingMax X="0.096834" Y="1.101290" Z="0.297811" />
+        <BoundingCenter X="-2.513218" Y="0.057409" Z="0.107973" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_PoleWall_End</Name>
+        <File>dz\structures_bliss\walls\wall_polewall_end.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2000492141</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Railing_1_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_railing_1_pole.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1168055274</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_SilageWall_5</Name>
+        <File>dz\structures_bliss\walls\wall_silagewall_5.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>957518334</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.171824</BBRadius>
+        <BBHScale>2.179698</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.049774</Height>
+        <BoundingMin X="-0.000415" Y="-1.020260" Z="-0.109676" />
+        <BoundingMax X="5.108032" Y="3.079288" Z="2.233973" />
+        <BoundingCenter X="2.553808" Y="1.029514" Z="1.062148" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_SilageWall_5_D</Name>
+        <File>dz\structures_bliss\walls\wall_silagewall_5_d.p3d</File>
+        <Date>10/05/22 19:40:37</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1270052189</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_SilageWall_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_silagewall_pole.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-642112369</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.158265</BBRadius>
+        <BBHScale>0.077373</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.049774</Height>
+        <BoundingMin X="-0.088877" Y="-1.020260" Z="-0.082557" />
+        <BoundingMax X="0.090360" Y="3.079288" Z="2.233973" />
+        <BoundingCenter X="0.000742" Y="1.029514" Z="1.075708" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Stone2</Name>
+        <File>dz\structures_bliss\walls\wall_stone2.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1097731902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.725813</BBRadius>
+        <BBHScale>6.481105</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.786204</Height>
+        <BoundingMin X="-4.662397" Y="-0.640000" Z="-0.709267" />
+        <BoundingMax X="4.745740" Y="0.932407" Z="0.742359" />
+        <BoundingCenter X="0.041672" Y="0.146204" Z="0.016546" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Stone2D</Name>
+        <File>dz\structures_bliss\walls\wall_stone2d.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-693354494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.431435</BBRadius>
+        <BBHScale>3.892346</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.709924</Height>
+        <BoundingMin X="-5.558791" Y="-0.900808" Z="-1.234420" />
+        <BoundingMax X="5.584490" Y="0.519039" Z="1.628450" />
+        <BoundingCenter X="0.012850" Y="-0.190884" Z="0.197015" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin6_1_4</Name>
+        <File>dz\structures_bliss\walls\wall_tin6_1_4.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2050104345</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.107894</BBRadius>
+        <BBHScale>19.034607</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.148399</Height>
+        <BoundingMin X="-2.063920" Y="-0.481918" Z="-0.109261" />
+        <BoundingMax X="2.043520" Y="1.814880" Z="0.106527" />
+        <BoundingCenter X="-0.010200" Y="0.666481" Z="-0.001367" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin6_1_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_tin6_1_pole.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1663102835</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.050011</BBRadius>
+        <BBHScale>0.953546</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.004925</Height>
+        <BoundingMin X="-0.047576" Y="-0.208880" Z="-0.049596" />
+        <BoundingMax X="0.047800" Y="1.800970" Z="0.050426" />
+        <BoundingCenter X="0.000112" Y="0.796045" Z="0.000415" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin6_2_4</Name>
+        <File>dz\structures_bliss\walls\wall_tin6_2_4.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2058365850</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.101466</BBRadius>
+        <BBHScale>20.187305</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.029371</Height>
+        <BoundingMin X="-2.058260" Y="-0.243631" Z="-0.091659" />
+        <BoundingMax X="2.038390" Y="1.815110" Z="0.111273" />
+        <BoundingCenter X="-0.009935" Y="0.785740" Z="0.009807" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin7_4</Name>
+        <File>dz\structures_bliss\walls\wall_tin7_4.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1611393528</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.092021</BBRadius>
+        <BBHScale>22.462545</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.817021</Height>
+        <BoundingMin X="-2.067021" Y="-0.577021" Z="-0.067021" />
+        <BoundingMax X="2.067021" Y="3.057021" Z="0.117021" />
+        <BoundingCenter X="0.000000" Y="1.240000" Z="0.025000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin7_8</Name>
+        <File>dz\structures_bliss\walls\wall_tin7_8.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1611393524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.092021</BBRadius>
+        <BBHScale>43.856926</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.817021</Height>
+        <BoundingMin X="-4.037566" Y="-0.577021" Z="-0.067021" />
+        <BoundingMax X="4.033930" Y="3.057021" Z="0.117021" />
+        <BoundingCenter X="-0.001818" Y="1.240000" Z="0.025000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wall_Tin7_Pole</Name>
+        <File>dz\structures_bliss\walls\wall_tin7_pole.p3d</File>
+        <Date>06/21/22 21:07:38</Date>
+        <Archive></Archive>
+        <Fill>-8372160</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-284780348</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.054773</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.640393</Height>
+        <BoundingMin X="-0.054773" Y="-0.509997" Z="-0.054773" />
+        <BoundingMax X="0.054773" Y="2.770790" Z="0.054773" />
+        <BoundingCenter X="0.000000" Y="1.130397" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

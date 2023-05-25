@@ -1,0 +1,465 @@
+<?xml version="1.0" ?>
+<Library name="trerik4_nature" shape="rectangle" default_fill="-256" default_outline="-1" tex="0">
+    <Template>
+        <Name>ice1</Name>
+        <File>trerik4\nature\ice1.p3d</File>
+        <Date>09/23/22 11:17:10</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1181791814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.245267</BBRadius>
+        <BBHScale>1.054208</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.227492</Height>
+        <BoundingMin X="-7.116094" Y="-1.227492" Z="-6.990582" />
+        <BoundingMax X="6.051528" Y="1.227492" Z="5.499952" />
+        <BoundingCenter X="-0.532283" Y="0.000000" Z="-0.745315" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ice2</Name>
+        <File>trerik4\nature\ice2.p3d</File>
+        <Date>09/23/22 11:17:10</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1181791815</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.887172</BBRadius>
+        <BBHScale>0.720451</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.227493</Height>
+        <BoundingMin X="-5.473662" Y="-1.227493" Z="-8.531921" />
+        <BoundingMax X="5.890983" Y="1.227493" Z="7.242423" />
+        <BoundingCenter X="0.208660" Y="0.000000" Z="-0.644749" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ice3</Name>
+        <File>trerik4\nature\ice3.p3d</File>
+        <Date>09/23/22 11:17:10</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1181791816</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.873734</BBRadius>
+        <BBHScale>1.600643</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.227496</Height>
+        <BoundingMin X="-4.749958" Y="-1.227497" Z="-3.463753" />
+        <BoundingMax X="7.650972" Y="1.227495" Z="4.283715" />
+        <BoundingCenter X="1.450507" Y="-0.000001" Z="0.409981" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>lion</Name>
+        <File>trerik4\nature\rocks\lion.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-721188804</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.764614</BBRadius>
+        <BBHScale>0.543858</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.028594</XShift>
+        <YShift>-0.080512</YShift>
+        <ZShift>-0.014658</ZShift>
+        <Height>1.990513</Height>
+        <BoundingMin X="-1.533923" Y="-0.044111" Z="-2.786195" />
+        <BoundingMax X="1.540318" Y="3.966517" Z="2.939390" />
+        <BoundingCenter X="0.003198" Y="1.961203" Z="0.076598" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_1</Name>
+        <File>trerik4\nature\rocks\rock_1.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297065</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.830719</BBRadius>
+        <BBHScale>0.530202</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.011249</XShift>
+        <YShift>0.007920</YShift>
+        <ZShift>0.002476</ZShift>
+        <Height>1.335177</Height>
+        <BoundingMin X="-1.498060" Y="-0.097151" Z="-3.038815" />
+        <BoundingMax X="1.526144" Y="2.580029" Z="2.638462" />
+        <BoundingCenter X="0.014042" Y="1.241439" Z="-0.200176" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_2</Name>
+        <File>trerik4\nature\rocks\rock_2.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297064</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.860500</BBRadius>
+        <BBHScale>0.589336</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.005877</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.018666</ZShift>
+        <Height>1.046730</Height>
+        <BoundingMin X="-1.704749" Y="-0.324659" Z="-2.879493" />
+        <BoundingMax X="1.678594" Y="1.806131" Z="2.841507" />
+        <BoundingCenter X="-0.013078" Y="0.740736" Z="-0.018993" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_3</Name>
+        <File>trerik4\nature\rocks\rock_3.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.192937</BBRadius>
+        <BBHScale>0.934095</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.004162</XShift>
+        <YShift>-0.003297</YShift>
+        <ZShift>0.009783</ZShift>
+        <Height>1.025815</Height>
+        <BoundingMin X="-1.912282" Y="-0.033403" Z="-2.098743" />
+        <BoundingMax X="2.192867" Y="2.037794" Z="2.293724" />
+        <BoundingCenter X="0.140292" Y="1.002195" Z="0.097491" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_4</Name>
+        <File>trerik4\nature\rocks\rock_4.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297062</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_5</Name>
+        <File>trerik4\nature\rocks\rock_5.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297061</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_6</Name>
+        <File>trerik4\nature\rocks\rock_6.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.468604</BBRadius>
+        <BBHScale>0.744793</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000648</XShift>
+        <YShift>0.021432</YShift>
+        <ZShift>-0.000188</ZShift>
+        <Height>1.429006</Height>
+        <BoundingMin X="-1.861032" Y="-0.044781" Z="-2.593808" />
+        <BoundingMax X="1.839235" Y="2.813607" Z="2.432796" />
+        <BoundingCenter X="-0.010898" Y="1.384413" Z="-0.080506" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_7</Name>
+        <File>trerik4\nature\rocks\rock_7.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.610992</BBRadius>
+        <BBHScale>0.711740</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.039354</XShift>
+        <YShift>0.019799</YShift>
+        <ZShift>-0.037089</ZShift>
+        <Height>1.643352</Height>
+        <BoundingMin X="-2.692591" Y="-0.111563" Z="-4.104447" />
+        <BoundingMax X="2.526292" Y="3.249321" Z="3.157134" />
+        <BoundingCenter X="-0.083149" Y="1.568879" Z="-0.473656" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_8</Name>
+        <File>trerik4\nature\rocks\rock_8.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297058</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.022249</BBRadius>
+        <BBHScale>0.771456</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.017415</XShift>
+        <YShift>-0.025129</YShift>
+        <ZShift>0.001017</ZShift>
+        <Height>3.215136</Height>
+        <BoundingMin X="-3.185616" Y="-0.116176" Z="-3.791476" />
+        <BoundingMax X="3.055191" Y="6.316129" Z="4.303279" />
+        <BoundingCenter X="-0.065213" Y="3.099977" Z="0.255902" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_9</Name>
+        <File>trerik4\nature\rocks\rock_9.p3d</File>
+        <Date>10/05/22 19:40:38</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2039297057</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rock_10</Name>
+        <File>trerik4\nature\rocks\rock_10.p3d</File>
+        <Date>09/23/22 11:17:11</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-501798375</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.505695</BBRadius>
+        <BBHScale>2.621242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002278</XShift>
+        <YShift>0.002272</YShift>
+        <ZShift>0.005722</ZShift>
+        <Height>1.764996</Height>
+        <BoundingMin X="-6.450553" Y="0.005463" Z="-2.193047" />
+        <BoundingMax X="6.690065" Y="3.546900" Z="2.822886" />
+        <BoundingCenter X="0.119756" Y="1.776182" Z="0.314919" />
+        <Placement></Placement>
+    </Template>
+</Library>

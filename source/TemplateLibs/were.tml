@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="were" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>were_cross</Name>
+        <File>trerik4\city\were\were_cross.p3d</File>
+        <Date>05/08/21 13:48:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1129521186</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.239142</BBRadius>
+        <BBHScale>0.771834</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.053498</XShift>
+        <YShift>0.004989</YShift>
+        <ZShift>0.068496</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.873290" Y="-0.119436" Z="-10.330154" />
+        <BoundingMax X="11.039544" Y="5.680912" Z="10.158109" />
+        <BoundingCenter X="3.083127" Y="2.780738" Z="-0.086023" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>were_end</Name>
+        <File>trerik4\city\were\were_end.p3d</File>
+        <Date>01/20/22 20:38:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1851798109</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>were_main</Name>
+        <File>trerik4\city\were\were_main.p3d</File>
+        <Date>01/20/22 20:38:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-908188937</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>were_slope</Name>
+        <File>trerik4\city\were\were_slope.p3d</File>
+        <Date>05/08/21 13:48:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1793927917</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.861149</BBRadius>
+        <BBHScale>1.791588</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000556</XShift>
+        <YShift>-0.001253</YShift>
+        <ZShift>0.072396</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.873290" Y="-0.119435" Z="-3.140871" />
+        <BoundingMax X="5.379823" Y="7.259512" Z="2.798811" />
+        <BoundingCenter X="0.253267" Y="3.570039" Z="-0.171030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>were_ladder</Name>
+        <File>trerik4\city\were\were_ladder.p3d</File>
+        <Date>05/08/21 13:48:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-281534272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.104286</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.061141</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.851575" Y="-0.119435" Z="-7.149617" />
+        <BoundingMax X="8.356997" Y="15.049389" Z="9.058955" />
+        <BoundingCenter X="0.252711" Y="7.464977" Z="0.954669" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>were_main_no_door</Name>
+        <File>trerik4\city\were\were_main_no_door.p3d</File>
+        <Date>05/08/21 13:48:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1722462532</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.861149</BBRadius>
+        <BBHScale>1.791588</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000556</XShift>
+        <YShift>-0.001253</YShift>
+        <ZShift>0.072396</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.873290" Y="-0.119435" Z="-3.140871" />
+        <BoundingMax X="5.379823" Y="5.680912" Z="2.798811" />
+        <BoundingCenter X="0.253267" Y="2.780738" Z="-0.171030" />
+        <Placement></Placement>
+    </Template>
+</Library>

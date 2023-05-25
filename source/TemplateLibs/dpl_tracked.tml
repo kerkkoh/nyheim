@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<Library name="trerik4_dpl" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+    <Template>
+        <Name>BMP2</Name>
+        <File>trerik4\dpl\tracked\bmp2.p3d</File>
+        <Date>09/23/22 11:16:58</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>620531437</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.339160</BBRadius>
+        <BBHScale>0.470810</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000019</XShift>
+        <YShift>-0.052309</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.092480</Height>
+        <BoundingMin X="-1.568477" Y="-0.155724" Z="-3.572244" />
+        <BoundingMax X="1.575795" Y="4.029237" Z="3.239384" />
+        <BoundingCenter X="0.003659" Y="1.936756" Z="-0.166430" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>UH60M</Name>
+        <File>trerik4\dpl\air\uh60m.p3d</File>
+        <Date>09/23/22 11:16:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1104309664</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.621964</BBRadius>
+        <BBHScale>0.821254</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.009168</XShift>
+        <YShift>-0.017781</YShift>
+        <ZShift>-0.025426</ZShift>
+        <Height>2.607193</Height>
+        <BoundingMin X="-7.953569" Y="-0.030830" Z="-7.914474" />
+        <BoundingMax X="7.915995" Y="5.234408" Z="11.370482" />
+        <BoundingCenter X="-0.018787" Y="2.601789" Z="1.728004" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>f35b</Name>
+        <File>trerik4\dpl\air\f35b.p3d</File>
+        <Date>09/23/22 11:16:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1559670726</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.702480</BBRadius>
+        <BBHScale>0.697130</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.020065</YShift>
+        <ZShift>-0.015925</ZShift>
+        <Height>2.487075</Height>
+        <BoundingMin X="-5.379128" Y="-0.054340" Z="-9.068695" />
+        <BoundingMax X="5.388432" Y="4.951681" Z="6.376396" />
+        <BoundingCenter X="0.004652" Y="2.448670" Z="-1.346149" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>m119</Name>
+        <File>trerik4\dpl\weapons\m119.p3d</File>
+        <Date>09/23/22 11:16:59</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-407313076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.160536</BBRadius>
+        <BBHScale>0.315634</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.010938</XShift>
+        <YShift>-0.189745</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.852123</Height>
+        <BoundingMin X="-1.658267" Y="-0.185652" Z="-2.746771" />
+        <BoundingMax X="1.631932" Y="1.518595" Z="4.016369" />
+        <BoundingCenter X="-0.013167" Y="0.666472" Z="0.634799" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>d30</Name>
+        <File>trerik4\dpl\weapons\d30.p3d</File>
+        <Date>09/23/22 11:16:59</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>829496097</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.213391</BBRadius>
+        <BBHScale>0.897991</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.008910</XShift>
+        <YShift>-0.116463</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.910664</Height>
+        <BoundingMin X="-3.040753" Y="-0.049209" Z="-2.883750" />
+        <BoundingMax X="3.159199" Y="1.772119" Z="3.775957" />
+        <BoundingCenter X="0.059223" Y="0.861455" Z="0.446104" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>A_tent</Name>
+        <File>trerik4\dpl\props\a_tent.p3d</File>
+        <Date>09/23/22 11:16:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1251289256</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.401595</BBRadius>
+        <BBHScale>0.564639</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.667394</Height>
+        <BoundingMin X="-1.364160" Y="-0.084709" Z="-2.397540" />
+        <BoundingMax X="1.347910" Y="1.250080" Z="2.405650" />
+        <BoundingCenter X="-0.008125" Y="0.582686" Z="0.004055" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>p_fiberPlant_EP1</Name>
+        <File>trerik4\dpl\plants\p_fiberplant_ep1.p3d</File>
+        <Date>09/23/22 11:16:57</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1968397611</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.871683</BBRadius>
+        <BBHScale>0.872818</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.051219</ZShift>
+        <Height>1.462807</Height>
+        <BoundingMin X="-1.871607" Y="-0.249854" Z="-1.950374" />
+        <BoundingMax X="3.141304" Y="2.778199" Z="3.792992" />
+        <BoundingCenter X="0.634849" Y="1.264173" Z="0.921309" />
+        <Placement></Placement>
+    </Template>
+</Library>

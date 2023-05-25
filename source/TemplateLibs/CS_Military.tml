@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<Library name="CS_Military" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>CS_Military_Camonet</Name>
+        <File>cs_military\camonet\cs_military_camonet.p3d</File>
+        <Date>04/01/22 17:34:05</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-134522022</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.239484</BBRadius>
+        <BBHScale>1.773976</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002200</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.750837" Y="-0.027151" Z="-3.110667" />
+        <BoundingMax X="5.742697" Y="3.238354" Z="3.368301" />
+        <BoundingCenter X="-0.004070" Y="1.605602" Z="0.128817" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_CargoTower1</Name>
+        <File>cs_military\cargotower\cs_military_cargotower1.p3d</File>
+        <Date>04/01/22 17:33:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-415184223</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.673165</BBRadius>
+        <BBHScale>0.973995</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000836</XShift>
+        <YShift>0.000968</YShift>
+        <ZShift>0.001372</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.662952" Y="0.002707" Z="-2.659518" />
+        <BoundingMax X="2.546018" Y="6.078893" Z="2.694114" />
+        <BoundingCenter X="-0.058467" Y="3.040800" Z="0.017298" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_CargoTower2</Name>
+        <File>cs_military\cargotower\cs_military_cargotower2.p3d</File>
+        <Date>04/01/22 17:33:41</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-415184222</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.673166</BBRadius>
+        <BBHScale>0.973994</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.003696</YShift>
+        <ZShift>0.000638</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.668269" Y="0.002707" Z="-2.697952" />
+        <BoundingMax X="2.539029" Y="6.054129" Z="2.655772" />
+        <BoundingCenter X="-0.064620" Y="3.028418" Z="-0.021090" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_DragonTeeth_Large</Name>
+        <File>cs_military\dragonteeth\cs_military_dragonteeth_large.p3d</File>
+        <Date>04/01/22 17:33:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2071455730</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.342295</BBRadius>
+        <BBHScale>2.569235</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.001967</XShift>
+        <YShift>-0.003264</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.408065" Y="0.000932" Z="-1.225377" />
+        <BoundingMax X="3.493311" Y="1.386642" Z="1.468558" />
+        <BoundingCenter X="0.042623" Y="0.693787" Z="0.121591" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_DragonTeeth_Small</Name>
+        <File>cs_military\dragonteeth\cs_military_dragonteeth_small.p3d</File>
+        <Date>04/01/22 17:33:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2047446086</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.835712</BBRadius>
+        <BBHScale>4.126063</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000107</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.434828" Y="0.000221" Z="-0.835927" />
+        <BoundingMax X="3.461575" Y="1.010748" Z="0.835712" />
+        <BoundingCenter X="0.013373" Y="0.505484" Z="-0.000107" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_Fence</Name>
+        <File>cs_military\fence\cs_military_fence.p3d</File>
+        <Date>04/01/22 17:35:18</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>565298190</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.896311</BBRadius>
+        <BBHScale>0.288031</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.001336</YShift>
+        <ZShift>-0.012751</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.546924" Y="-0.000395" Z="-0.051107" />
+        <BoundingMax X="0.545467" Y="2.931046" Z="3.770874" />
+        <BoundingCenter X="-0.000729" Y="1.465326" Z="1.859884" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_Tower</Name>
+        <File>cs_military\tower\cs_military_tower.p3d</File>
+        <Date>04/01/22 17:32:15</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1370248794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.010642</BBRadius>
+        <BBHScale>0.918297</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003323</XShift>
+        <YShift>0.076291</YShift>
+        <ZShift>-0.001054</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.375180" Y="0.002707" Z="-4.763120" />
+        <BoundingMax X="4.083048" Y="9.970860" Z="3.421860" />
+        <BoundingCenter X="0.353934" Y="4.986783" Z="-0.670630" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_Tower_Small</Name>
+        <File>cs_military\tower\cs_military_tower_small.p3d</File>
+        <Date>04/01/22 17:32:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2026803342</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.703077</BBRadius>
+        <BBHScale>0.918966</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.031148</XShift>
+        <YShift>0.009364</YShift>
+        <ZShift>0.016004</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.507115" Y="-0.018973" Z="-2.774525" />
+        <BoundingMax X="2.523252" Y="6.054412" Z="2.657448" />
+        <BoundingCenter X="0.008069" Y="3.017719" Z="-0.058539" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_Wall</Name>
+        <File>cs_military\wall\cs_military_wall.p3d</File>
+        <Date>04/01/22 17:31:00</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>718233677</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.294006</BBRadius>
+        <BBHScale>6.405448</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000144</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.978578" Y="0.001153" Z="-0.294351" />
+        <BoundingMax X="1.787901" Y="3.129466" Z="0.293660" />
+        <BoundingCenter X="-0.095339" Y="1.565309" Z="-0.000345" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CS_Military_Wall_Gate</Name>
+        <File>cs_military\wall\cs_military_wall_gate.p3d</File>
+        <Date>04/10/22 10:38:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1810562275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.389510</BBRadius>
+        <BBHScale>8.879519</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.002681</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500505" Y="0.002656" Z="-0.221993" />
+        <BoundingMax X="3.482050" Y="3.078615" Z="0.557027" />
+        <BoundingCenter X="-0.009227" Y="1.540635" Z="0.167517" />
+        <Placement></Placement>
+    </Template>
+</Library>
