@@ -1,0 +1,13 @@
+This data package has several licenses per folder. Each asset from cgtrader is licensed under the original CGTrader royalty free license. 
+
+The following folders contain original assets licensed under MIT License, Copyright Kerkkoh 2023, see `LICENSE` at root of this package:
+- military\decals
+- military\improvised
+- military\intel
+- military\signs
+- military\truck
+
+The following folders contain original assets licensed under CGTrader royalty free license (https://www.cgtrader.com/pages/terms-and-conditions#royalty-free-license):
+- military\missile_launcher
+- military\sub
+- military\leopard
