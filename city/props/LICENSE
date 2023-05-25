@@ -1,0 +1,13 @@
+These assets are licensed separately. See `attribution.txt` for more details.
+
+The following files are covered under MIT License, Copyright Kerkkoh 2023, see `LICENSE` at the root of the repository:
+- militarybox.p3d
+- militarybox_wooden.p3d
+- lootbox_wooden_industrial.p3d
+- lootbox_wooden_residential.p3d
++ Any textures used by the above assets within the `data` folder.
+
+The following assets are from CGTrader, and are covered under CGTrader royalty free license (https://www.cgtrader.com/pages/terms-and-conditions#royalty-free-license):
+- izzie.p3d
+- catbed.p3d
++ Any textures used by the above assets within the `data` folder.

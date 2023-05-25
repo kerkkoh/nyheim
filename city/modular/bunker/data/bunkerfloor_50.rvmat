@@ -1,0 +1,164 @@
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.0,0.0,0.0,1.0};
+specularPower = 10.0;
+PixelShaderID = "Multi";
+VertexShaderID = "Multi";
+class TexGen0
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen1
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen2
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {0.5,0.0,0.0};
+  up[] = {0.0,0.5,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen4
+{
+ uvSource = "tex1";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen5
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen6
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen7
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class Stage0
+{
+//Black
+texture="DZ\structures\data\concrete\concrete_dirty_co.paa";
+ texGen = "0";
+};
+class Stage1
+{
+//Red
+ texture="DZ\structures\data\concrete\concrete_dirty_co.paa";
+ texGen = "1";
+};
+class Stage2
+{
+//Green
+ texture="DZ\structures\data\concrete\concrete_rough_co.paa";
+ texGen = "2";
+};
+class Stage3
+{
+//Blue
+ texture="DZ\structures_bliss\military\Bunkers\data\enoch_bunker_ext_concrete_light_co.paa";
+ texGen = "3";
+};
+class Stage4
+{
+ texture="trerik4\city\modular\bunker\data\bunkerfloor_mask.paa";
+ texGen = "4";
+};
+class Stage5
+{
+ texture = "DZ\structures\data\concrete\concrete_dirty_dtsmdi.paa";
+ texGen = "5";
+};
+class Stage6
+{
+ texture = "DZ\structures\data\concrete\concrete_dirty_dtsmdi.paa";
+ texGen = "6";
+};
+class Stage7
+{
+ texture = "DZ\structures\data\concrete\concrete_rough_dtsmdi.paa";
+ texGen = "7";
+};
+class Stage8
+{
+ texture = "#(argb,8,8,3)color(0.5,0,1,1,DTSMDI)";
+ texGen = "3";
+};
+class Stage9
+{
+ texture="trerik4\city\modular\bunker\data\bunkerfloor_mc.paa";
+ texGen = "4";
+};
+class Stage10
+{
+ texture="trerik4\city\modular\bunker\data\bunkerfloor_as.paa";
+ texGen = "4";
+};
+class Stage11
+{
+texture="DZ\structures\data\concrete\concrete_dirty_nohq.paa";
+ texGen = "0";
+};
+class Stage12
+{
+ texture="DZ\structures\data\concrete\concrete_dirty_nohq.paa";
+ texGen = "1";
+};
+class Stage13
+{
+ texture="DZ\structures\data\concrete\concrete_rough_nohq.paa";
+ texGen = "2";
+};
+class Stage14
+{
+ texture="DZ\structures_bliss\military\Bunkers\data\enoch_bunker_ext_concrete_light_nohq.paa";
+ texGen = "3";
+};

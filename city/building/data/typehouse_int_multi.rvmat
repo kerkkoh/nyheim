@@ -1,0 +1,171 @@
+ambient[] = {0.7,0.7,0.7,1};
+diffuse[] = {2,2,2,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,1};
+specular[] = {1,1,1,1};
+specularPower = 80;
+PixelShaderID = "Multi";
+VertexShaderID = "Multi";
+class TexGen0
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen1
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen2
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen3
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen4
+{
+	uvSource = "tex1";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen5
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen6
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class TexGen7
+{
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage0 //black
+{
+	texture = "dz\structures\data\plaster\plaster_grey_co.paa";
+	texGen = "0";
+};
+class Stage1 //r
+{
+	texture = "dz\structures\data\floor\wood_floor\parquets1dark_co.paa";
+	texGen = "1";
+};
+class Stage2 //g
+{
+	texture = "dz\structures\data\wallpapers\wallpaper_red_yellow_co.paa";
+	texGen = "2";
+};
+class Stage3 //b
+{
+	texture = "dz\structures\residential\houses\data\housev2_01a_int_details_co.paa";
+	texGen = "3";
+};
+class Stage4 //mask
+{
+	texture = "trerik4\city\building\data\typehouse_int_mask.paa";
+	texGen = "4";
+};
+class Stage5
+{
+	texture = "dz\structures\data\plaster\plaster_orange_dtsmdi.paa";
+	texGen = "5";
+};
+class Stage6
+{
+	texture = "dz\structures\data\floor\wood_floor\parquets1dark_smdi.paa";
+	texGen = "6";
+};
+class Stage7
+{
+	texture = "dz\structures\data\wallpapers\wallpaper_red_yellow_dtsmdi.paa";
+	texGen = "7";
+};
+class Stage8
+{
+	texture = "dz\structures\residential\houses\data\housev2_01a_int_details_dtsmdi.paa";
+	texGen = "3";
+};
+class Stage9
+{
+	texture = "#(argb,8,8,3)color(0,0,0,0,MC)";
+	texGen = "4";
+};
+class Stage10
+{
+	texture = "trerik4\city\building\data\typehouse_int_as.paa";
+	texGen = "4";
+};
+class Stage11 //black
+{
+	texture = "dz\structures\data\plaster\plaster_orange_nohq.paa";
+	texGen = "0";
+};
+class Stage12 //r
+{
+	texture = "dz\structures\data\floor\wood_floor\parquets1dark_nohq.paa";
+	texGen = "1";
+};
+class Stage13 //g
+{
+	texture = "dz\structures\data\wallpapers\wallpaper_red_yellow_nohq.paa";
+	texGen = "2";
+};
+class Stage14 //b
+{
+	texture = "dz\structures\residential\houses\data\housev2_01a_int_details_nohq.paa";
+	texGen = "3";
+};

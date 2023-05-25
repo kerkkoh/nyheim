@@ -1,0 +1,20 @@
+The following assets are from CGTrader, and are covered under CGTrader royalty free license (https://www.cgtrader.com/pages/terms-and-conditions#royalty-free-license):
+- bigcity_1.p3d
+- bigcity_2.p3d
+- fancy_house.p3d
++ Any textures used by the above assets within the `data` folder.
+
+--------------------
+
+The following original assets are covered under the MIT License `LICENSE` at the root of the repository:
+- ladder.p3d
+- mjolnir.p3d
+- statebuilding.p3d
+- typehouse.p3d
+- typehouse_brown.p3d
+- typehouse_green.p3d
+- typehouse_shell.p3d
+- typehouse_yellow.p3d
++ Any textures used by the above assets within the `data` folder.
+  
+The above assets are created in Blender and Substance Painter.

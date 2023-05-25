@@ -1,0 +1,164 @@
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.0,0.0,0.0,1.0};
+specularPower = 10.0;
+PixelShaderID = "Multi";
+VertexShaderID = "Multi";
+class TexGen0
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen1
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen2
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {0.5,0.0,0.0};
+  up[] = {0.0,0.5,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen4
+{
+ uvSource = "tex1";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen5
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen6
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class TexGen7
+{
+ uvSource = "tex";
+ class uvTransform
+ {
+  aside[] = {1.0,0.0,0.0};
+  up[] = {0.0,1.0,0.0};
+  dir[] = {0.0,0.0,0.0};
+  pos[] = {0.0,0.0,1.0};
+ };
+};
+class Stage0
+{
+//Black
+texture="trerik4\city\underground\data\concreteSheet1_ca.paa";
+ texGen = "0";
+};
+class Stage1
+{
+//Red
+ texture="trerik4\city\underground\data\concreteSheet1_ca.paa"; // extras
+ texGen = "1";
+};
+class Stage2
+{
+//Green
+ texture="dz\structures\data\metal\metal_red_dirty_co.paa"; // pipes
+ texGen = "2";
+};
+class Stage3
+{
+//Blue
+ texture="dz\structures\data\concrete\basecooler_concrete_co.paa"; // walls
+ texGen = "3";
+};
+class Stage4
+{
+ texture="trerik4\city\underground\secondary\data\sewer_10_mask.paa";
+ texGen = "4";
+};
+class Stage5 // bl
+{
+ texture = "#(argb,8,8,3)color(0.5,0,1,1,DTSMDI)";
+ texGen = "5";
+};
+class Stage6 // r
+{
+ texture = "#(argb,8,8,3)color(0.5,0,1,1,DTSMDI)";
+ texGen = "6";
+};
+class Stage7 // g
+{
+ texture = "dz\structures\data\metal\metal_red_dirty_dtsmdi.paa";
+ texGen = "7";
+};
+class Stage8 // b
+{
+ texture = "dz\structures\data\concrete\basecooler_concrete_dtsmdi.paa";
+ texGen = "3";
+};
+class Stage9
+{
+ texture="trerik4\city\underground\secondary\data\sewer_10_tcross_mc.paa";
+ texGen = "4";
+};
+class Stage10
+{
+ texture="trerik4\city\underground\secondary\data\sewer_10_as.paa";
+ texGen = "4";
+};
+class Stage11 // bl
+{
+texture="trerik4\city\underground\data\concreteSheet1_nohq.paa";
+ texGen = "0";
+};
+class Stage12 // r
+{
+ texture="trerik4\city\underground\data\concreteSheet1_nohq.paa";
+ texGen = "1";
+};
+class Stage13 // g
+{
+ texture="dz\structures\data\metal\metal_red_dirty_nohq.paa";
+ texGen = "2";
+};
+class Stage14 // b
+{
+ texture="dz\structures\data\concrete\basecooler_concrete_nohq.paa";
+ texGen = "3";
+};

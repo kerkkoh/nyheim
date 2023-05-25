@@ -1,0 +1,136 @@
+ambient[]={1,1,1,1};
+diffuse[]={1,1,1,1};
+forcedDiffuse[]={0,0,0,0};
+emmisive[]={0.8,0.8,0.8,1};
+specular[]={0.49803922,0.49803922,0.49803922,1};
+specularPower=53;
+PixelShaderID="Super";
+VertexShaderID="Super";
+class TexGen0
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen1
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen2
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen3
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen4
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen5
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen6
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class TexGen7
+{
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage0
+{
+	texture="trerik4\city\flag\data\sign_ca.paa";
+	texGen="0";
+};
+class Stage1
+{
+	texture="trerik4\city\flag\data\sign_nohq.paa";
+	texGen="1";
+};
+class Stage2
+{
+	texture="#(argb,8,8,3)color(0.5,0.5,0.5,1,DT)";
+	texGen="2";
+};
+class Stage3
+{
+	texture="#(argb,8,8,3)color(0,0,0,0,MC)";
+	texGen="3";
+};
+class Stage4
+{
+	texture="#(argb,8,8,3)color(1,1,1,1,AS)";
+	texGen="4";
+};
+class Stage5
+{
+	texture="#(argb,8,8,3)color(1,0,1,0,SMDI)";
+	texGen="5";
+};
+class Stage7
+{
+	texture="trerik4\extra\env_land_co.paa";
+	texGen="7";
+};
+class Stage8
+{
+	texture="trerik4\city\flag\data\sign_e_co.paa";
+	texGen="0";
+};

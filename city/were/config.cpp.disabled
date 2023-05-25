@@ -1,0 +1,50 @@
+/*class CfgPatches
+{
+	class ker_were
+	{
+		units[] = {};
+		weapons[] = {};
+		requiredVersion = 0.1;
+		requiredAddons[] = {"DZ_Data"};
+	};
+};
+
+class CfgVehicles
+{
+	class HouseNoDestruct;
+	class Land_were_end: HouseNoDestruct
+	{
+		scope = 2;
+		displayName = "Land_were_end";
+		descriptionShort = "Just a Land_were_end";
+		model = "trerik4\city\were\were_end.p3d";
+	};
+	class Land_were_main: HouseNoDestruct
+	{
+		scope = 2;
+		displayName = "Land_were_main";
+		descriptionShort = "Just a Land_were_main";
+		model = "trerik4\city\were\were_main.p3d";
+	};
+	class Land_were_slope: HouseNoDestruct
+	{
+		scope = 2;
+		displayName = "Land_were_slope";
+		descriptionShort = "Just a Land_were_slope";
+		model = "trerik4\city\were\were_slope.p3d";
+	};
+	class Land_were_cross: HouseNoDestruct
+	{
+		scope = 2;
+		displayName = "Land_were_cross";
+		descriptionShort = "Just a Land_were_cross";
+		model = "trerik4\city\were\were_cross.p3d";
+	};
+	class Land_were_ladder: HouseNoDestruct
+	{
+		scope = 2;
+		displayName = "Land_were_ladder";
+		descriptionShort = "Just a Land_were_ladder";
+		model = "trerik4\city\were\were_ladder.p3d";
+	};
+};*/

@@ -1,0 +1,31 @@
+/*class CfgSkeletons
+{
+  class Default
+  {
+    isDiscrete = 1;
+    skeletonInherit = "";
+    skeletonBones[] = {};
+  };
+  class Skeleton_1door: Default
+  {
+    skeletonInherit = "Default";
+    skeletonBones[] =
+    {
+      "door1",""
+    };
+  };
+};
+class CfgModels
+{
+  class Default
+  {
+    sectionsInherit = "";
+    sections[] = {};
+    skeletonName = "";
+  };
+  class were_ladder: Default
+  {
+    skeletonName = "Default";
+    class Animations {};
+  };
+};*/
