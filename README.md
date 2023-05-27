@@ -1,18 +1,21 @@
 # Trerik4 / NYHEIM
 
+## License
 The license in this repository applies to the code and assets related to the map only. **The data and external dependencies are licensed separately.**
 
-## License - Code and assets by Kerkkoh
+### Code and assets by Kerkkoh
 
 MIT License. See `LICENSE` at root of this repository.
 
-## License - Any other assets and external dependencies
+### Any other assets and external dependencies
 
 Please see `LICENSE` files in each data package for more information. These assets are NOT covered by the MIT License.
 
 ## Installation
 
-Rename this repository folder as `trerik4` and place it in your P-drive. Use Terrain Builder to open up the terrain project file in the `source` folder.
+1. This repository contains GIT Large File Storage -files. You may have to [install Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) by simply running the command `git lfs install`.
+2. Now you can clone this repository with `git clone git@github.com:kerkkoh/nyheim.git`
+3. Rename this repository folder as `trerik4` and place it in your P-drive. Use Terrain Builder to open up the terrain project file in the `source` folder.
 
 ## Contents
 
