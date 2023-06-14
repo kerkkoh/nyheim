@@ -1,4 +1,13 @@
 // Logic original, by Kerkkoh 2020, shared with HunterzCZ on 12/22/2020 for AirRaid mod improvements <3
+
+/**
+    This is a script for simulating a working train that travels through the city.
+
+    However, this simulation is on a static map object thus causing all sorts of issues with collisions with the train.
+    Thus, a physics based system was implemented in trerik_tog.c
+*/
+
+
 /*class Land_train : BuildingSuper
 {
     protected bool m_active;

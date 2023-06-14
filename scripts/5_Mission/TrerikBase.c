@@ -12,14 +12,13 @@ class TrerikBase
 #endif
 	ref Timer m_soundScapeTimer;
 	bool m_toggleMapSounds = true;
-	int m_soundInterval = 300;
+	int m_soundInterval = 600;
 
 	void TrerikBase()
 	{
 		GetRPCManager().AddRPC("Trerik", "PlaySound", this, SingeplayerExecutionType.Client);
 		GetRPCManager().AddRPC("Trerik", "SoundScapeAmbience", this, SingeplayerExecutionType.Client);
 		// GetRPCManager().AddRPC("Trerik", "FlyingCarSync", this, SingeplayerExecutionType.Client);
-		//GetRPCManager().AddRPC("Trerik", "SoundAlarm", this, SingeplayerExecutionType.Client);
 		m_soundScapeTimer = new Timer;
 #ifdef UNDERGROUND_SYSTEM
 		m_ugSystem = new UndergroundSystem();
@@ -100,7 +99,7 @@ class TrerikBase
 	{
 		if (GetGame().IsServer() || !GetGame().IsMultiplayer())
 		{
-			//m_soundScapeTimer.Run(m_soundInterval, this, "InvokeSoundScape", NULL, true);
+			m_soundScapeTimer.Run(m_soundInterval, this, "InvokeSoundScape", NULL, true);
 			// Train is disabled
 			// InitTrain();
 		}
@@ -129,57 +128,51 @@ class TrerikBase
 		}
 	}
 
+	// Sends sound commands to the client from the server
 	void InvokeSoundScape()
 	{
-		//Print("TRERIK::InvokeSoundScape");
-		//GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Houseparty));
-		//GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Underground));
+		Print("TRERIK::InvokeSoundScape");
+		// GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Houseparty));
+		// GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Underground));
 		/* if (Math.RandomInt(0, 10) == 0)
         {
 			GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Houseparty));
-		}
+		} */
 		if (Math.RandomInt(0, 10) == 0)
         {
 			GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Underground));
 		} */
 	}
 
+	// Plays sound on the client
 	void SoundScapeAmbience(CallType type, ref ParamsReadContext ctx, ref PlayerIdentity sender, ref Object target)
 	{
 		Param1<SoundEmitter> data;
 		if (!ctx.Read(data) || !m_toggleMapSounds) return;
 
-		//Print("TRERIK::SoundScapeAmbience " + data.param1);
+		Print("TRERIK::SoundScapeAmbience " + data.param1);
 
 		switch (data.param1)
 		{
 			case SoundEmitter.Houseparty:
 			{
-				//Print("TRERIK::SoundScapeAmbience > Land_houseparty");
+				Print("TRERIK::SoundScapeAmbience > Land_houseparty");
 				Land_houseparty.m_AmbienceTick.Invoke("");
 			}
 			break;
 			case SoundEmitter.Underground:
 			{
-				//Print("TRERIK::SoundScapeAmbience > Land_sewer_10_tcross");
+				Print("TRERIK::SoundScapeAmbience > Land_sewer_10_tcross");
 				Land_sewer_10_tcross.m_AmbienceTick.Invoke("");
 			}
 			break;
-			case SoundEmitter.Ambulance:
+			/* case SoundEmitter.Ambulance:
 			{
 				//Land_ambulance_van.m_AmbienceTick.Invoke("Trerik_Ambience_City1_SoundSet");
 			}
-			break;
+			break; */
 		}
 	}
-
-	/*void SoundAlarm(CallType type, ref ParamsReadContext ctx, ref PlayerIdentity sender, ref Object target)
-	{
-		Param1<int> data;
-		if (!ctx.Read(data)) return;
-		// Print("TRERIK::SoundAlarm " + data.param1);
-		Land_alarm.m_AmbienceTick.Invoke(data.param1);
-	}*/
 
 	/*void FlyingCarSync(CallType type, ref ParamsReadContext ctx, ref PlayerIdentity sender, ref Object target)
 	{

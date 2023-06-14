@@ -1,6 +1,6 @@
 /*
 *
-*	IF WE EVER WANT FLYING CARS, THIS DOES THAT :)
+*	IF YOU EVER WANT FLYING CARS, THIS DOES THAT :)
 *
 
 modded class Hatchback_02

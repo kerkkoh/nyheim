@@ -1,1 +1,1 @@
-#define DRP_TRERIK
+#define TRK_TRERIK

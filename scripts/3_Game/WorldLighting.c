@@ -1,3 +1,10 @@
+/**
+	Uncomment these lines to mess around with the lighting.
+
+	Currently the default lighting is used.
+*/
+
+
 /* modded class WorldLighting
 {
 	string lighting[2] = { "trerik4\\extra\\lighting\\lighting_darknight.txt", "trerik4\\extra\\lighting\\lighting_default.txt" };

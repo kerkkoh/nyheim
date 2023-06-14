@@ -1,3 +1,9 @@
+/**
+	This was supposed to be an event tool for launching rockets from the missile laucher
+	It works but it was disabled due to it having synchronization issues beyond player bubble.
+*/
+
+
 /*class Land_missile_launcher : BuildingSuper
 {
 	protected int m_ActiveMissileSpawn;

@@ -1,4 +1,6 @@
-
+/**
+	NVG handler for the underground system
+*/
 #ifdef UNDERGROUND_SYSTEM
 modded class DayZPlayerCameraBase
 {

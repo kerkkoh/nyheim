@@ -1,3 +1,7 @@
+/**
+    This disables health loss from low heat comfort.
+    Can be disabled by commenting out the lines below.
+*/
 modded class PlayerConstants
 {
     static const float HEALTH_LOSS_HC_PLUS_LOW = 0.0;

@@ -25,14 +25,16 @@ modded class MissionGameplay
         return m_TrerikBase;
     }
 
+    /*
     void MissionGameplay()
     {
         if (!GetGame().IsMultiplayer())
         {
             // GetMissileHandler();
-            GetTrainHandler();
+            // GetTrainHandler();
         }
     }
+    */
 
     override void OnMissionStart()
     {

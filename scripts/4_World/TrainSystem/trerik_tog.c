@@ -1,3 +1,13 @@
+/**
+    This is a script for simulating a working train that travels through the city.
+
+    This is not in use due to the physics based system causing issues, such as derailing somewhat often.
+    However, with slight modifications, this could be used to simulate a train traveling on tracks.
+
+    This simulation is completely physics based, essentially giving vectors to the physics system to move the train.
+    The train was supposed to have seats, but I never managed to configure the vehicle object in OB.
+*/
+
 class trerik_tog extends OffroadHatchback
 {
     const int MAX_SPEED = 20.0;

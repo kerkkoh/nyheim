@@ -1,3 +1,10 @@
+/**
+    This is a script that makes certain areas of the map dark, such as underground areas.
+    The areas are defined as 4 point polygons.
+
+    You can disable this by not defining UNDERGROUND_SYSTEM in scripts\Defines\defines.c
+*/
+
 /*static void Msg(string msg)
 {
     // GetGame().GetMission().OnEvent(ChatMessageEventTypeID, new ChatMessageEventParams(CCAdmin, "UGSYS", msg, ""));
@@ -6,49 +13,64 @@
 #ifdef UNDERGROUND_SYSTEM
 class UndergroundSystem
 {
+    // ***** UG SYSTEM CONFIG START *****
+    // You can change these to your liking
+    // **********************************
+    // Increase this to make the accom change faster
+    // Multiplier for the difference between accom & target, which modifies the accom
+    const float ACCOM_CHANGE_STEP = 0.01;
+    // Required due to floating point numbers not being exact
+    // "epsilon" = how close is close enough for accoms to be equal
+    const float ACCOM_EQUALS_THRESHOLD = 0.015;
+    // You can increase this to make the undergrounds lighter, decrease for darker
+    // Accom for underground portions of the map
+    const float UNDERGROUND_ACCOM = 0.01;
+    // Accom for when NVGs are enabled
+    const float UNDERGROUND_NVG_ACCOM = 0.95;
+    // How often should underground checks be performed (seconds)
+    const float TIME_COUNTER_MAX = 0.2;
+    // **********************************
+    // ***** UG SYSTEM CONFIG END *****
+    // **********************************
+
+    // You should generally not change these, as the scripts use them
     private ref array<ref UndergroundArea> m_ugAreas;
-    
     private float m_defaultAccom;
     private float m_accom = 1.0; // Eye accommodation (accom), https://en.wikipedia.org/wiki/Accommodation_(eye)
     private float m_accomTarget = 1.0; // Target to which we change m_accom towards
-    const float ACCOM_CHANGE_STEP = 0.01; // Multiplier for the difference between accom & target, which modifies the accom
-    const float ACCOM_EQUALS_THRESHOLD = 0.015; // "epsilon" = how close is close enough for accoms to be equal
-    const float UNDERGROUND_ACCOM = 0.01; // Accom for underground portions of the map
-    const float UNDERGROUND_NVG_ACCOM = 0.95; // Accom for when NVGs are enabled
-
+    private bool m_initialized = false; // Flipped when initialization is finished
+    bool m_previousNVGStatus = false; // Previous NVG status, used to detect changes
     private float m_timeCounter = 0.0; // Counter for regulating undg checks
-    const float TIME_COUNTER_MAX = 0.2; // How often should underground checks be performed (seconds)
-    
-    private bool m_initialized = false;
-    
-    bool m_previousNVGStatus = false;
 
+    // You can add new underground areas here, but follow the format used by the others
     void UndergroundSystem()
     {
         m_defaultAccom = GetGame().GetWorld().GetEyeAccom();
         m_ugAreas = new array<ref UndergroundArea>;
 
-        // Commercial area
+        // Commercial area (single polygon)
         TPointArray bounds = { new Point(2200, 2700), new Point(1500, 2700), new Point(1500, 2350), new Point(2200, 2350) };
         UndergroundArea ugArea = new UndergroundArea(bounds, 33.0);
         m_ugAreas.Insert(ugArea);
-        // Research lab
-        TPointArray bounds1 = { new Point(3518.7, 4206.9), new Point(3518.7, 4045.1), new Point(3448.0, 4045.1), new Point(3448.0, 4206.5), new Point(3518.7, 4206.9) };
-        TPointArray bounds2 = { new Point(3570.4, 4057.9), new Point(3570.4, 3958.8), new Point(3482.1, 3958.8), new Point(3482.1, 4057.9), new Point(3570.4, 4057.9) };
-        TPointArray bounds3 = { new Point(3541.0, 4169.5), new Point(3541.0, 4055.4), new Point(3516.8, 4055.4), new Point(3516.8, 4169.5), new Point(3541.0, 4169.5) };
-        TPointArray bounds4 = { new Point(3556.0, 4055.5), new Point(3538.6, 4055.5), new Point(3538.6, 4073.7), new Point(3556.0, 4073.7), new Point(3556.0, 4055.5) };
-        TPointArray bounds5 = { new Point(3484.1, 4045.7), new Point(3484.1, 4016.0), new Point(3453.9, 4016.0), new Point(3453.9, 4045.7), new Point(3484.1, 4045.7) };
 
-        UndergroundArea ugArea1 = new UndergroundArea(bounds1, 181.0);
-        UndergroundArea ugArea2 = new UndergroundArea(bounds2, 181.0);
-        UndergroundArea ugArea3 = new UndergroundArea(bounds3, 181.0);
-        UndergroundArea ugArea4 = new UndergroundArea(bounds4, 181.0);
-        UndergroundArea ugArea5 = new UndergroundArea(bounds5, 181.0);
-        m_ugAreas.Insert(ugArea1);
-        m_ugAreas.Insert(ugArea2);
-        m_ugAreas.Insert(ugArea3);
-        m_ugAreas.Insert(ugArea4);
-        m_ugAreas.Insert(ugArea5);
+        // Research lab (defined as 5 polygons due to complex shape)
+        TPointArray researchBounds1 = { new Point(3518.7, 4206.9), new Point(3518.7, 4045.1), new Point(3448.0, 4045.1), new Point(3448.0, 4206.5), new Point(3518.7, 4206.9) };
+        TPointArray researchBounds2 = { new Point(3570.4, 4057.9), new Point(3570.4, 3958.8), new Point(3482.1, 3958.8), new Point(3482.1, 4057.9), new Point(3570.4, 4057.9) };
+        TPointArray researchBounds3 = { new Point(3541.0, 4169.5), new Point(3541.0, 4055.4), new Point(3516.8, 4055.4), new Point(3516.8, 4169.5), new Point(3541.0, 4169.5) };
+        TPointArray researchBounds4 = { new Point(3556.0, 4055.5), new Point(3538.6, 4055.5), new Point(3538.6, 4073.7), new Point(3556.0, 4073.7), new Point(3556.0, 4055.5) };
+        TPointArray researchBounds5 = { new Point(3484.1, 4045.7), new Point(3484.1, 4016.0), new Point(3453.9, 4016.0), new Point(3453.9, 4045.7), new Point(3484.1, 4045.7) };
+        
+        UndergroundArea researchUgArea1 = new UndergroundArea(researchBounds1, 181.0);
+        UndergroundArea researchUgArea2 = new UndergroundArea(researchBounds2, 181.0);
+        UndergroundArea researchUgArea3 = new UndergroundArea(researchBounds3, 181.0);
+        UndergroundArea researchUgArea4 = new UndergroundArea(researchBounds4, 181.0);
+        UndergroundArea researchUgArea5 = new UndergroundArea(researchBounds5, 181.0);
+        
+        m_ugAreas.Insert(researchUgArea1);
+        m_ugAreas.Insert(researchUgArea2);
+        m_ugAreas.Insert(researchUgArea3);
+        m_ugAreas.Insert(researchUgArea4);
+        m_ugAreas.Insert(researchUgArea5);
     }
 
     void ~UndergroundSystem()

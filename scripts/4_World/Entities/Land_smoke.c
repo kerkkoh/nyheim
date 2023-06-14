@@ -1,4 +1,9 @@
-/*class Land_smoke : EmitterBase
+/**
+    These can be disabled to remove the smoke emitters in the city.
+    Disabling can improve performance on certain clients.
+*/
+
+class Land_smoke : EmitterBase
 {
     void Land_smoke()
     {
@@ -20,4 +25,4 @@ class Land_steam : EmitterBase
     {
         m_ParticleId = ParticleList.TRK_STEAM;
     }
-}*/
+}

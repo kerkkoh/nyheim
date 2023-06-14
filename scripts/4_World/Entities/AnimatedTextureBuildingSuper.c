@@ -1,4 +1,10 @@
 /**
+ * [NOTE: THIS IS BROKEN SINCE AN UPDATE AFTER 2022]
+ * [NOTE: THIS IS BROKEN SINCE AN UPDATE AFTER 2022]
+ * [NOTE: THIS IS BROKEN SINCE AN UPDATE AFTER 2022]
+ * [NOTE: THIS IS BROKEN SINCE AN UPDATE AFTER 2022]
+ * 
+ *
  * Title: Hiddenselection Animated Texture and Material 1.0.0
  * Author: Kerkkoh
  *

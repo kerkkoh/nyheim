@@ -1,3 +1,7 @@
+/**
+    This can be uncommented to enable ambient sounds for the ambulance van.
+*/
+
 /*class Land_ambulance_van : AnimatedTextureBuildingSuper
 {
     static ref ScriptInvoker m_AmbienceTick = new ScriptInvoker;
@@ -15,7 +19,8 @@
 
     void PlayAmbience(string what)
     {
-        if (Math.RandomInt(0, 50) == 0)
+        // 1 in 100 chance of playing the sounds
+        if (Math.RandomInt(0, 100) == 0)
         {
             SEffectManager.PlaySound(what, GetPosition()).SetSoundAutodestroy(true);
         }
