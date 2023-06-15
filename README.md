@@ -16,6 +16,9 @@ Please see `LICENSE` files in each data package for more information. These asse
 1. This repository contains GIT Large File Storage -files. You may have to [install Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) by simply running the command `git lfs install`.
 2. Now you can clone this repository with `git clone git@github.com:kerkkoh/nyheim.git`
 3. Rename this repository folder as `trerik4` and place it in your P-drive. Use Terrain Builder to open up the terrain project file in the `source` folder.
+4. To pack the terrain, use pboProject from Mikero's Tools. You can find the tools from [here](https://mikero.bytex.digital/Downloads).
+5. In your pboProject settings, disable "Warnings are errors" (warnings should be ignored), and add "*.nm" under -B ignore list, to have it not be binarized. Otherwise, pboProject will not be able to pack the navmesh.
+6. You can also use the `pack.bat` file in the `source` folder to pack the terrain, BUT you have to open the bat script and change the initial configuration for folders to match your setup.
 
 ## Contents
 
