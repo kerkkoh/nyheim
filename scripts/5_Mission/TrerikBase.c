@@ -3,7 +3,7 @@ enum SoundEmitter
 	Houseparty,
 	Underground,
 	Ambulance
-};
+}
 
 class TrerikBase
 {
@@ -139,9 +139,9 @@ class TrerikBase
 			GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Houseparty));
 		} */
 		if (Math.RandomInt(0, 10) == 0)
-        {
+		{
 			GetRPCManager().SendRPC("Trerik", "SoundScapeAmbience", new Param1<SoundEmitter>(SoundEmitter.Underground));
-		} */
+		}
 	}
 
 	// Plays sound on the client
@@ -155,22 +155,22 @@ class TrerikBase
 		switch (data.param1)
 		{
 			case SoundEmitter.Houseparty:
-			{
-				Print("TRERIK::SoundScapeAmbience > Land_houseparty");
-				Land_houseparty.m_AmbienceTick.Invoke("");
-			}
-			break;
+				{
+					Print("TRERIK::SoundScapeAmbience > Land_houseparty");
+					Land_houseparty.m_AmbienceTick.Invoke("");
+				}
+				break;
 			case SoundEmitter.Underground:
-			{
-				Print("TRERIK::SoundScapeAmbience > Land_sewer_10_tcross");
-				Land_sewer_10_tcross.m_AmbienceTick.Invoke("");
-			}
-			break;
-			/* case SoundEmitter.Ambulance:
-			{
-				//Land_ambulance_van.m_AmbienceTick.Invoke("Trerik_Ambience_City1_SoundSet");
-			}
-			break; */
+				{
+					Print("TRERIK::SoundScapeAmbience > Land_sewer_10_tcross");
+					Land_sewer_10_tcross.m_AmbienceTick.Invoke("");
+				}
+				break;
+				/* case SoundEmitter.Ambulance:
+				{
+					//Land_ambulance_van.m_AmbienceTick.Invoke("Trerik_Ambience_City1_SoundSet");
+				}
+				break; */
 		}
 	}
 
@@ -206,7 +206,7 @@ class TrerikBase
 
 	void OnUpdate(float timeslice)
 	{
- 		if (!GetGame().IsMultiplayer() || GetGame().IsServer())
+		if (!GetGame().IsMultiplayer() || GetGame().IsServer())
 		{
 			// GetMissileHandler().OnUpdate(timeslice);
 			// GetTrainHandler().OnUpdate(timeslice);
