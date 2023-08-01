@@ -166,7 +166,13 @@ class CfgWorlds
 		hazeFogCoef = 1.0;
 		volFogOffset = 0;
 		
-		centerPosition[]={2560,2560,300};
+		centerPosition[]={7100,7750,300};
+		
+		ilsPosition[] = {15360,15360};
+		ilsDirection[] = {0.0,0.0,0.0};
+		ilsTaxiIn[] = {12385,12363,12250,12419,11939,12545};
+		ilsTaxiOff[] = {11917,12555,11864,12578,11875,12602};
+		drawTaxiway = 0;
 		
 		// override for sea materials (enfusion materials)
 		//oceanMaterial = "trerik4\data\trerik_sea.emat";

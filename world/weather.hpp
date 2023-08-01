@@ -675,111 +675,89 @@ class Weather: Weather
 	{
 		class Weather1: Weather1
 		{
-			overcast = 0;
-			lightingOvercast = 0;
-			sky = "SkyZ\data\data\SkyZ_veryclear_sky.paa";
+			overcast = 0.0;
+			lightingOvercast = 0.0;
+			sky = "DZ\data\data\sky_clear_sky.paa";
 			skyR = "DZ\data\data\sky_clear_lco.paa";
-			//horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
 			horizon = "trerik4\extra\sky\sky_clear_horizont_sky.paa";
-			alpha = 0;
-			bright = 0;
+			alpha = 0.0;
+			bright = 0.0;
 			speed = 0.1;
 			size = 0.5;
-			height = 1;
+			height = 1.0;
 			through = 0.45;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
+			diffuse = 1.0;
+			cloudDiffuse = 1.0;
+			waves = 0.0;
 		};
 		class Weather2: Weather2
 		{
-			overcast = 0.22;
-			lightingOvercast = 0.22;
-			sky = "SkyZ\data\data\SkyZ_clear_sky.paa";
-			skyR = "DZ\data\data\sky_clear_lco.paa";
-			//horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
-			horizon = "trerik4\extra\sky\sky_almostclear_horizont_sky.paa";
-			alpha = 0;
-			bright = 0;
-			speed = 0.1;
-			size = 0.5;
-			height = 1;
-			through = 0.45;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
-		};
-		class Weather3: Weather3
-		{
-			overcast = 0.36;
-			lightingOvercast = 0.36;
-			sky = "SkyZ\data\data\SkyZ_almostclear_sky.paa";
+			overcast = 0.3;
+			lightingOvercast = 0.3;
+			sky = "DZ\data\data\sky_clear_sky.paa";
 			skyR = "DZ\data\data\sky_almostclear_lco.paa";
-			//horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
-			horizon = "trerik4\extra\sky\sky_semicloudy_horizont_sky.paa";
-			alpha = 0;
+			horizon = "trerik4\extra\sky\sky_almostclear_horizont_sky.paa";
+			alpha = 0.1;
 			bright = 0.6;
 			speed = 0.3;
 			size = 0.55;
 			height = 0.9;
 			through = 0.3;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
+			diffuse = 1.0;
+			cloudDiffuse = 1.0;
+			waves = 0.0;
 		};
-		class Weather4: Weather4
+		class Weather3: Weather3
 		{
 			overcast = 0.5;
 			lightingOvercast = 0.5;
-			sky = "SkyZ\data\data\SkyZ_semicloudy_sky.paa";
+			sky = "DZ\data\data\sky_semicloudy_sky.paa";
 			skyR = "DZ\data\data\sky_semicloudy_lco.paa";
-			//horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
-			horizon = "trerik4\extra\sky\sky_cloudy_horizont_sky.paa";
-			alpha = 0;
+			horizon = "trerik4\extra\sky\sky_semicloudy_horizont_sky.paa";
+			alpha = 0.25;
 			bright = 0.6;
 			speed = 0.5;
 			size = 0.65;
 			height = 0.85;
-			through = 0.2;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
+			through = 0.1;
+			diffuse = 1.0;
+			cloudDiffuse = 1.0;
+			waves = 0.0;
+		};
+		class Weather4: Weather4
+		{
+			overcast = 0.7;
+			lightingOvercast = 0.7;
+			sky = "DZ\data\data\sky_cloudy_sky.paa";
+			skyR = "DZ\data\data\sky_cloudy_lco.paa";
+			horizon = "trerik4\extra\sky\sky_cloudy_horizont_sky.paa";
+			alpha = 0.35;
+			bright = 0.4;
+			speed = 0.75;
+			size = 0.85;
+			height = 0.8;
+			through = 0.1;
+			diffuse = 1.0;
+			cloudDiffuse = 1.0;
+			waves = 0.0;
 		};
 		class Weather5: Weather5
 		{
-			overcast = 0.77;
-			lightingOvercast = 0.77;
-			sky = "SkyZ\data\data\SkyZ_cloudy_sky.paa";
-			skyR = "DZ\data\data\sky_cloudy_lco.paa";
-			//horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
-			horizon = "trerik4\extra\sky\sky_mostlycloudy_horizont_sky.paa";
-			alpha = 0.22;
-			bright = 0.2;
-			speed = 3;
-			size = 0.88;
-			height = 0.44;
-			through = 0.1;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
-		};
-		class Weather6: Weather6
-		{
-			overcast = 1;
-			lightingOvercast = 1.01;
-			sky = "SkyZ\data\data\SkyZ_mostlycloudy_sky.paa";
+			overcast = 1.01;
+			lightingOvercast = 1.0;
+			sky = "DZ\data\data\sky_mostlycloudy_sky.paa";
 			skyR = "DZ\data\data\sky_mostlycloudy_lco.paa";
-			horizon = "SkyZ\data\data\SkyZ_horizont_sky.paa";
-			alpha = 0.19;
-			bright = 0.01;
-			speed = 0.2;
-			size = 0.88;
-			height = 0.44;
-			through = 0;
-			diffuse = 1;
-			cloudDiffuse = 1;
-			waves = 0;
+			horizon = "trerik4\extra\sky\sky_mostlycloudy_horizont_sky.paa";
+			alpha = 0.35;
+			bright = 0.2;
+			speed = 0.8;
+			size = 1.0;
+			height = 0.75;
+			through = 0.0;
+			diffuse = 1.0;
+			cloudDiffuse = 1.0;
+			waves = 0.0;
 		};
 	};
 };
-skyObject = "SkyZ\data\data\SkyZ_sphere.p3d";
+skyObject = "DZ\Data\data\obloha.p3d";
